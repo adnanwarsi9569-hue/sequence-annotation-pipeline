@@ -1,0 +1,433 @@
+NP_001432677.1	sp|Q53H12|AGK_HUMAN	100.000	422	422	0.0	877	sp|Q53H12|AGK_HUMAN Acylglycerol kinase, mitochondrial OS=Homo sapiens OX=9606 GN=AGK PE=1 SV=2
+NP_001432677.1	sp|Q5RED7|AGK_PONAB	99.052	422	422	0.0	869	sp|Q5RED7|AGK_PONAB Acylglycerol kinase, mitochondrial OS=Pongo abelii OX=9601 GN=AGK PE=2 SV=1
+NP_001432677.1	sp|Q9ESW4|AGK_MOUSE	89.573	422	422	0.0	773	sp|Q9ESW4|AGK_MOUSE Acylglycerol kinase, mitochondrial OS=Mus musculus OX=10090 GN=Agk PE=1 SV=1
+NP_001432677.1	sp|Q7ZYJ3|AGK_XENLA	69.856	418	422	0.0	601	sp|Q7ZYJ3|AGK_XENLA Acylglycerol kinase, mitochondrial OS=Xenopus laevis OX=8355 GN=agk PE=2 SV=1
+NP_001432677.1	sp|Q7ZW00|AGK_DANRE	60.922	412	422	0.0	521	sp|Q7ZW00|AGK_DANRE Acylglycerol kinase, mitochondrial OS=Danio rerio OX=7955 GN=agk PE=2 SV=2
+NP_001432677.1	sp|Q10123|YSM3_CAEEL	26.953	256	422	2.27e-24	107	sp|Q10123|YSM3_CAEEL Uncharacterized protein F52C9.3 OS=Caenorhabditis elegans OX=6239 GN=F52C9.3 PE=4 SV=2
+NP_001432677.1	sp|Q8L7L1|SPHK1_ARATH	32.941	170	422	5.00e-19	92.4	sp|Q8L7L1|SPHK1_ARATH Sphingosine kinase 1 OS=Arabidopsis thaliana OX=3702 GN=SPHK1 PE=1 SV=1
+NP_001432677.1	sp|F2Y4A3|SPHK2_ARATH	27.679	224	422	5.61e-18	89.4	sp|F2Y4A3|SPHK2_ARATH Sphingosine kinase 2 OS=Arabidopsis thaliana OX=3702 GN=SPHK2 PE=1 SV=1
+NP_001432677.1	sp|Q9LRB0|LCBK1_ARATH	32.418	182	422	5.41e-16	84.0	sp|Q9LRB0|LCBK1_ARATH Sphingoid long-chain bases kinase 1 OS=Arabidopsis thaliana OX=3702 GN=LCBK1 PE=1 SV=1
+NP_001432677.1	sp|Q91V26|SPHK1_RAT	25.683	183	422	2.54e-15	80.5	sp|Q91V26|SPHK1_RAT Sphingosine kinase 1 OS=Rattus norvegicus OX=10116 GN=Sphk1 PE=1 SV=1
+NP_001180251.1	sp|Q14164|IKKE_HUMAN	100.000	644	657	0.0	1336	sp|Q14164|IKKE_HUMAN Inhibitor of nuclear factor kappa-B kinase subunit epsilon OS=Homo sapiens OX=9606 GN=IKBKE PE=1 SV=1
+NP_001180251.1	sp|Q9R0T8|IKKE_MOUSE	84.498	658	657	0.0	1164	sp|Q9R0T8|IKKE_MOUSE Inhibitor of nuclear factor kappa-B kinase subunit epsilon OS=Mus musculus OX=10090 GN=Ikbke PE=1 SV=2
+NP_001180251.1	sp|Q9UHD2|TBK1_HUMAN	52.222	630	657	0.0	664	sp|Q9UHD2|TBK1_HUMAN Serine/threonine-protein kinase TBK1 OS=Homo sapiens OX=9606 GN=TBK1 PE=1 SV=1
+NP_001180251.1	sp|Q9WUN2|TBK1_MOUSE	52.855	613	657	0.0	658	sp|Q9WUN2|TBK1_MOUSE Serine/threonine-protein kinase TBK1 OS=Mus musculus OX=10090 GN=Tbk1 PE=1 SV=1
+NP_001180251.1	sp|Q6DFJ6|TBK1_XENLA	49.163	657	657	0.0	637	sp|Q6DFJ6|TBK1_XENLA Serine/threonine-protein kinase TBK1 OS=Xenopus laevis OX=8355 GN=tbk1 PE=2 SV=1
+NP_001180251.1	sp|Q5ZJB4|IKKA_CHICK	29.650	371	657	3.09e-39	157	sp|Q5ZJB4|IKKA_CHICK Inhibitor of nuclear factor kappa-B kinase subunit alpha OS=Gallus gallus OX=9031 GN=CHUK PE=2 SV=1
+NP_001180251.1	sp|Q95KV0|IKKB_BOVIN	28.534	382	657	1.79e-37	152	sp|Q95KV0|IKKB_BOVIN Inhibitor of nuclear factor kappa-B kinase subunit beta OS=Bos taurus OX=9913 GN=IKBKB PE=2 SV=1
+NP_001180251.1	sp|Q28DZ1|IKKA_XENTR	28.371	356	657	4.03e-37	151	sp|Q28DZ1|IKKA_XENTR Inhibitor of nuclear factor kappa-B kinase subunit alpha OS=Xenopus tropicalis OX=8364 GN=chuk PE=2 SV=1
+NP_001180251.1	sp|Q6GM53|IKKA_XENLA	28.371	356	657	4.71e-37	151	sp|Q6GM53|IKKA_XENLA Inhibitor of nuclear factor kappa-B kinase subunit alpha OS=Xenopus laevis OX=8355 GN=chuk PE=2 SV=1
+NP_001180251.1	sp|Q9QY78|IKKB_RAT	27.749	382	657	5.41e-37	151	sp|Q9QY78|IKKB_RAT Inhibitor of nuclear factor kappa-B kinase subunit beta OS=Rattus norvegicus OX=10116 GN=Ikbkb PE=1 SV=1
+NP_001432950.1	sp|P43403|ZAP70_HUMAN	93.053	619	576	0.0	1183	sp|P43403|ZAP70_HUMAN Tyrosine-protein kinase ZAP-70 OS=Homo sapiens OX=9606 GN=ZAP70 PE=1 SV=1
+NP_001432950.1	sp|P43404|ZAP70_MOUSE	87.419	620	576	0.0	1101	sp|P43404|ZAP70_MOUSE Tyrosine-protein kinase ZAP-70 OS=Mus musculus OX=10090 GN=Zap70 PE=1 SV=3
+NP_001432950.1	sp|F1N9Y5|KSYK_CHICK	53.607	610	576	0.0	657	sp|F1N9Y5|KSYK_CHICK Tyrosine-protein kinase SYK OS=Gallus gallus OX=9031 GN=SYK PE=1 SV=2
+NP_001432950.1	sp|P43405|KSYK_HUMAN	51.030	631	576	0.0	635	sp|P43405|KSYK_HUMAN Tyrosine-protein kinase SYK OS=Homo sapiens OX=9606 GN=SYK PE=1 SV=1
+NP_001432950.1	sp|Q64725|KSYK_RAT	63.498	263	576	1.11e-109	344	sp|Q64725|KSYK_RAT Tyrosine-protein kinase SYK OS=Rattus norvegicus OX=10116 GN=Syk PE=1 SV=1
+NP_001432950.1	sp|Q64725|KSYK_RAT	55.159	252	576	7.80e-98	313	sp|Q64725|KSYK_RAT Tyrosine-protein kinase SYK OS=Rattus norvegicus OX=10116 GN=Syk PE=1 SV=1
+NP_001432950.1	sp|Q64725|KSYK_RAT	33.962	106	576	3.39e-09	63.5	sp|Q64725|KSYK_RAT Tyrosine-protein kinase SYK OS=Rattus norvegicus OX=10116 GN=Syk PE=1 SV=1
+NP_001432950.1	sp|Q00655|KSYK_PIG	63.118	263	576	1.69e-109	344	sp|Q00655|KSYK_PIG Tyrosine-protein kinase SYK OS=Sus scrofa OX=9823 GN=SYK PE=1 SV=1
+NP_001432950.1	sp|Q00655|KSYK_PIG	52.688	279	576	1.49e-99	318	sp|Q00655|KSYK_PIG Tyrosine-protein kinase SYK OS=Sus scrofa OX=9823 GN=SYK PE=1 SV=1
+NP_001432950.1	sp|P48025|KSYK_MOUSE	63.118	263	576	1.09e-108	342	sp|P48025|KSYK_MOUSE Tyrosine-protein kinase SYK OS=Mus musculus OX=10090 GN=Syk PE=1 SV=2
+NP_001432950.1	sp|P48025|KSYK_MOUSE	53.430	277	576	2.55e-99	317	sp|P48025|KSYK_MOUSE Tyrosine-protein kinase SYK OS=Mus musculus OX=10090 GN=Syk PE=1 SV=2
+NP_001432950.1	sp|P48025|KSYK_MOUSE	35.000	100	576	4.37e-08	59.7	sp|P48025|KSYK_MOUSE Tyrosine-protein kinase SYK OS=Mus musculus OX=10090 GN=Syk PE=1 SV=2
+NP_001432950.1	sp|P10447|ABL_FSVHY	36.203	395	576	9.84e-73	242	sp|P10447|ABL_FSVHY Tyrosine-protein kinase transforming protein Abl OS=Feline sarcoma virus (strain Hardy-Zuckerman 2) OX=11776 GN=ABL PE=2 SV=1
+NP_001432950.1	sp|P00521|ABL_MLVAB	35.593	413	576	2.58e-72	249	sp|P00521|ABL_MLVAB Tyrosine-protein kinase transforming protein Abl OS=Abelson murine leukemia virus OX=11788 GN=ABL PE=3 SV=1
+NP_001432950.1	sp|Q9V9J3|SRC42_DROME	36.228	403	576	8.92e-71	239	sp|Q9V9J3|SRC42_DROME Tyrosine-protein kinase Src42A OS=Drosophila melanogaster OX=7227 GN=Src42A PE=1 SV=1
+NP_001432950.1	sp|Q9V9J3|SRC42_DROME	36.170	94	576	6.24e-07	55.8	sp|Q9V9J3|SRC42_DROME Tyrosine-protein kinase Src42A OS=Drosophila melanogaster OX=7227 GN=Src42A PE=1 SV=1
+NP_001425224.1	sp|O96017|CHK2_HUMAN	89.547	574	545	0.0	1039	sp|O96017|CHK2_HUMAN Serine/threonine-protein kinase Chk2 OS=Homo sapiens OX=9606 GN=CHEK2 PE=1 SV=1
+NP_001425224.1	sp|Q9Z265|CHK2_MOUSE	71.053	570	545	0.0	788	sp|Q9Z265|CHK2_MOUSE Serine/threonine-protein kinase Chk2 OS=Mus musculus OX=10090 GN=Chek2 PE=1 SV=1
+NP_001425224.1	sp|O61267|LOK_DROME	36.105	421	545	2.48e-75	249	sp|O61267|LOK_DROME Ovarian-specific serine/threonine-protein kinase Lok OS=Drosophila melanogaster OX=7227 GN=lok PE=2 SV=1
+NP_001425224.1	sp|P34101|FHKC_DICDI	34.949	392	545	5.12e-71	241	sp|P34101|FHKC_DICDI Probable serine/threonine-protein kinase fhkC OS=Dictyostelium discoideum OX=44689 GN=fhkC PE=3 SV=2
+NP_001425224.1	sp|Q54VI1|FHKE_DICDI	36.243	378	545	6.53e-66	230	sp|Q54VI1|FHKE_DICDI Probable serine/threonine-protein kinase fhkE OS=Dictyostelium discoideum OX=44689 GN=fhkE PE=3 SV=1
+NP_001425224.1	sp|Q54MH0|FHKD_DICDI	38.095	357	545	1.91e-58	210	sp|Q54MH0|FHKD_DICDI Probable serine/threonine-protein kinase fhkD OS=Dictyostelium discoideum OX=44689 GN=fhkD PE=3 SV=1
+NP_001425224.1	sp|Q09170|RAD53_SCHPO	33.590	390	545	7.15e-58	202	sp|Q09170|RAD53_SCHPO Serine/threonine-protein kinase cds1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cds1 PE=1 SV=2
+NP_001425224.1	sp|Q9U1Y5|CHK2_CAEEL	31.250	416	545	9.37e-54	192	sp|Q9U1Y5|CHK2_CAEEL Serine/threonine-protein kinase chk-2 OS=Caenorhabditis elegans OX=6239 GN=chk-2 PE=2 SV=2
+NP_001425224.1	sp|Q54CY9|MYLKD_DICDI	35.514	321	545	2.87e-51	181	sp|Q54CY9|MYLKD_DICDI Probable myosin light chain kinase DDB_G0292624 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0292624 PE=3 SV=1
+NP_001425224.1	sp|P25323|MYLKA_DICDI	38.603	272	545	4.24e-50	177	sp|P25323|MYLKA_DICDI Myosin light chain kinase A OS=Dictyostelium discoideum OX=44689 GN=mlkA PE=1 SV=2
+NP_001411089.1	sp|Q09013|DMPK_HUMAN	99.813	534	535	0.0	1086	sp|Q09013|DMPK_HUMAN Myotonin-protein kinase OS=Homo sapiens OX=9606 GN=DMPK PE=1 SV=3
+NP_001411089.1	sp|P54265|DMPK_MOUSE	86.989	538	535	0.0	895	sp|P54265|DMPK_MOUSE Myotonin-protein kinase OS=Mus musculus OX=10090 GN=Dmpk PE=1 SV=1
+NP_001411089.1	sp|Q5VT25|MRCKA_HUMAN	50.360	556	535	4.49e-173	535	sp|Q5VT25|MRCKA_HUMAN Serine/threonine-protein kinase MRCK alpha OS=Homo sapiens OX=9606 GN=CDC42BPA PE=1 SV=1
+NP_001411089.1	sp|Q3UU96|MRCKA_MOUSE	50.540	556	535	6.52e-173	535	sp|Q3UU96|MRCKA_MOUSE Serine/threonine-protein kinase MRCK alpha OS=Mus musculus OX=10090 GN=Cdc42bpa PE=1 SV=2
+NP_001411089.1	sp|O54874|MRCKA_RAT	50.540	556	535	1.01e-172	534	sp|O54874|MRCKA_RAT Serine/threonine-protein kinase MRCK alpha OS=Rattus norvegicus OX=10116 GN=Cdc42bpa PE=1 SV=1
+NP_001411089.1	sp|Q9Y5S2|MRCKB_HUMAN	49.033	569	535	8.51e-170	526	sp|Q9Y5S2|MRCKB_HUMAN Serine/threonine-protein kinase MRCK beta OS=Homo sapiens OX=9606 GN=CDC42BPB PE=1 SV=2
+NP_001411089.1	sp|Q7TT49|MRCKB_RAT	50.556	540	535	1.01e-169	526	sp|Q7TT49|MRCKB_RAT Serine/threonine-protein kinase MRCK beta OS=Rattus norvegicus OX=10116 GN=Cdc42bpb PE=1 SV=1
+NP_001411089.1	sp|Q7TT50|MRCKB_MOUSE	50.556	540	535	4.30e-169	524	sp|Q7TT50|MRCKB_MOUSE Serine/threonine-protein kinase MRCK beta OS=Mus musculus OX=10090 GN=Cdc42bpb PE=1 SV=2
+NP_001411089.1	sp|Q80UW5|MRCKG_MOUSE	51.595	533	535	2.64e-162	503	sp|Q80UW5|MRCKG_MOUSE Serine/threonine-protein kinase MRCK gamma OS=Mus musculus OX=10090 GN=Cdc42bpg PE=1 SV=2
+NP_001411089.1	sp|O01583|MRCK_CAEEL	55.314	414	535	3.90e-156	488	sp|O01583|MRCK_CAEEL Serine/threonine-protein kinase mrck-1 OS=Caenorhabditis elegans OX=6239 GN=mrck-1 PE=1 SV=3
+NP_001401443.1	sp|Q03426|KIME_HUMAN	84.770	348	311	0.0	575	sp|Q03426|KIME_HUMAN Mevalonate kinase OS=Homo sapiens OX=9606 GN=MVK PE=1 SV=1
+NP_001401443.1	sp|Q5E9T8|KIME_BOVIN	71.264	348	311	1.31e-162	461	sp|Q5E9T8|KIME_BOVIN Mevalonate kinase OS=Bos taurus OX=9913 GN=MVK PE=2 SV=1
+NP_001401443.1	sp|P17256|KIME_RAT	71.264	348	311	6.33e-154	439	sp|P17256|KIME_RAT Mevalonate kinase OS=Rattus norvegicus OX=10116 GN=Mvk PE=1 SV=1
+NP_001401443.1	sp|Q9R008|KIME_MOUSE	69.253	348	311	3.48e-147	422	sp|Q9R008|KIME_MOUSE Mevalonate kinase OS=Mus musculus OX=10090 GN=Mvk PE=1 SV=1
+NP_001401443.1	sp|P46086|KIME_ARATH	35.174	344	311	1.07e-58	195	sp|P46086|KIME_ARATH Mevalonate kinase OS=Arabidopsis thaliana OX=3702 GN=At5g27450 PE=2 SV=1
+NP_001401443.1	sp|Q86AG7|KIME_DICDI	34.783	345	311	6.12e-52	178	sp|Q86AG7|KIME_DICDI Mevalonate kinase OS=Dictyostelium discoideum OX=44689 GN=mvk PE=1 SV=1
+NP_001401443.1	sp|A0A1D8PEL1|ERG12_CANAL	31.844	358	311	2.42e-46	164	sp|A0A1D8PEL1|ERG12_CANAL Mevalonate kinase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=ERG12 PE=2 SV=1
+NP_001401443.1	sp|Q09780|ERG12_SCHPO	33.621	348	311	2.01e-45	161	sp|Q09780|ERG12_SCHPO Mevalonate kinase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=erg12 PE=2 SV=1
+NP_001401443.1	sp|P07277|ERG12_YEAST	29.282	362	311	9.83e-40	147	sp|P07277|ERG12_YEAST Mevalonate kinase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ERG12 PE=1 SV=1
+NP_001401443.1	sp|Q4WP25|ERG12_ASPFU	30.027	373	311	1.38e-37	143	sp|Q4WP25|ERG12_ASPFU Mevalonate kinase erg12 OS=Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) OX=330879 GN=erg12 PE=2 SV=1
+NP_001132989.1	sp|O75569|PRKRA_HUMAN	99.322	295	302	0.0	608	sp|O75569|PRKRA_HUMAN Interferon-inducible double-stranded RNA-dependent protein kinase activator A OS=Homo sapiens OX=9606 GN=PRKRA PE=1 SV=1
+NP_001132989.1	sp|Q9WTX2|PRKRA_MOUSE	97.966	295	302	0.0	602	sp|Q9WTX2|PRKRA_MOUSE Interferon-inducible double-stranded RNA-dependent protein kinase activator A OS=Mus musculus OX=10090 GN=Prkra PE=1 SV=1
+NP_001132989.1	sp|Q2HJ92|PRKRA_BOVIN	97.966	295	302	0.0	602	sp|Q2HJ92|PRKRA_BOVIN Interferon-inducible double-stranded RNA-dependent protein kinase activator A OS=Bos taurus OX=9913 GN=PRKRA PE=2 SV=1
+NP_001132989.1	sp|Q4V8C7|PRKRA_RAT	97.627	295	302	0.0	599	sp|Q4V8C7|PRKRA_RAT Interferon-inducible double-stranded RNA-dependent protein kinase activator A OS=Rattus norvegicus OX=10116 GN=Prkra PE=1 SV=1
+NP_001132989.1	sp|Q7ZYA5|PRKAA_XENLA	62.925	294	302	4.93e-133	382	sp|Q7ZYA5|PRKAA_XENLA Interferon-inducible double-stranded RNA-dependent protein kinase activator A homolog A OS=Xenopus laevis OX=8355 GN=prkra-a PE=2 SV=1
+NP_001132989.1	sp|Q91836|PRKAB_XENLA	62.585	294	302	3.38e-132	380	sp|Q91836|PRKAB_XENLA Interferon-inducible double-stranded RNA-dependent protein kinase activator A homolog B OS=Xenopus laevis OX=8355 GN=prkra-b PE=1 SV=1
+NP_001132989.1	sp|Q5BJ52|TRBP2_XENTR	45.970	335	302	3.83e-85	262	sp|Q5BJ52|TRBP2_XENTR RISC-loading complex subunit tarbp2 OS=Xenopus tropicalis OX=8364 GN=tarbp2 PE=2 SV=2
+NP_001132989.1	sp|Q6GPZ1|TRBP2_XENLA	44.776	335	302	1.28e-82	256	sp|Q6GPZ1|TRBP2_XENLA RISC-loading complex subunit tarbp2 OS=Xenopus laevis OX=8355 GN=tarbp2 PE=2 SV=2
+NP_001132989.1	sp|B0V3F8|PRKRA_DANRE	50.865	289	302	1.75e-82	253	sp|B0V3F8|PRKRA_DANRE Interferon-inducible double-stranded RNA-dependent protein kinase activator A homolog OS=Danio rerio OX=7955 GN=prkra PE=2 SV=2
+NP_001132989.1	sp|P97473|TRBP2_MOUSE	41.854	356	302	9.87e-81	251	sp|P97473|TRBP2_MOUSE RISC-loading complex subunit TARBP2 OS=Mus musculus OX=10090 GN=Tarbp2 PE=1 SV=2
+NP_001129124.1	sp|P19525|E2AK2_HUMAN	92.559	551	510	0.0	978	sp|P19525|E2AK2_HUMAN Interferon-induced, double-stranded RNA-activated protein kinase OS=Homo sapiens OX=9606 GN=EIF2AK2 PE=1 SV=2
+NP_001129124.1	sp|Q63184|E2AK2_RAT	52.450	551	510	6.92e-169	489	sp|Q63184|E2AK2_RAT Interferon-induced, double-stranded RNA-activated protein kinase OS=Rattus norvegicus OX=10116 GN=Eif2ak2 PE=1 SV=1
+NP_001129124.1	sp|Q03963|E2AK2_MOUSE	50.633	553	510	5.07e-166	483	sp|Q03963|E2AK2_MOUSE Interferon-induced, double-stranded RNA-activated protein kinase OS=Mus musculus OX=10090 GN=Eif2ak2 PE=1 SV=2
+NP_001129124.1	sp|A5D791|E2AK3_BOVIN	40.212	189	510	4.04e-35	144	sp|A5D791|E2AK3_BOVIN Eukaryotic translation initiation factor 2-alpha kinase 3 OS=Bos taurus OX=9913 GN=EIF2AK3 PE=1 SV=1
+NP_001129124.1	sp|Q9Z2B5|E2AK3_MOUSE	39.683	189	510	2.62e-34	141	sp|Q9Z2B5|E2AK3_MOUSE Eukaryotic translation initiation factor 2-alpha kinase 3 OS=Mus musculus OX=10090 GN=Eif2ak3 PE=1 SV=1
+NP_001129124.1	sp|Q9Z1Z1|E2AK3_RAT	39.683	189	510	5.31e-34	140	sp|Q9Z1Z1|E2AK3_RAT Eukaryotic translation initiation factor 2-alpha kinase 3 OS=Rattus norvegicus OX=10116 GN=Eif2ak3 PE=1 SV=1
+NP_001129124.1	sp|Q9NZJ5|E2AK3_HUMAN	39.683	189	510	9.42e-34	139	sp|Q9NZJ5|E2AK3_HUMAN Eukaryotic translation initiation factor 2-alpha kinase 3 OS=Homo sapiens OX=9606 GN=EIF2AK3 PE=1 SV=3
+NP_001129124.1	sp|Q9NIV1|E2AK3_DROME	41.579	190	510	1.55e-33	139	sp|Q9NIV1|E2AK3_DROME Eukaryotic translation initiation factor 2-alpha kinase OS=Drosophila melanogaster OX=7227 GN=PEK PE=1 SV=2
+NP_001129124.1	sp|Q9Z1J2|NEK4_MOUSE	30.417	240	510	1.04e-28	124	sp|Q9Z1J2|NEK4_MOUSE Serine/threonine-protein kinase Nek4 OS=Mus musculus OX=10090 GN=Nek4 PE=1 SV=1
+NP_001129124.1	sp|P51957|NEK4_HUMAN	30.417	240	510	1.72e-27	120	sp|P51957|NEK4_HUMAN Serine/threonine-protein kinase Nek4 OS=Homo sapiens OX=9606 GN=NEK4 PE=1 SV=2
+NP_001394184.1	sp|Q15831|STK11_HUMAN	95.037	403	404	0.0	756	sp|Q15831|STK11_HUMAN Serine/threonine-protein kinase STK11 OS=Homo sapiens OX=9606 GN=STK11 PE=1 SV=1
+NP_001394184.1	sp|Q9WTK7|STK11_MOUSE	91.864	381	404	0.0	693	sp|Q9WTK7|STK11_MOUSE Serine/threonine-protein kinase STK11 OS=Mus musculus OX=10090 GN=Stk11 PE=1 SV=1
+NP_001394184.1	sp|D4AE59|STK11_RAT	92.126	381	404	0.0	674	sp|D4AE59|STK11_RAT Serine/threonine-protein kinase STK11 OS=Rattus norvegicus OX=10116 GN=Stk11 PE=1 SV=2
+NP_001394184.1	sp|Q0GGW5|STK11_CHICK	88.550	393	404	0.0	664	sp|Q0GGW5|STK11_CHICK Serine/threonine-protein kinase STK11 OS=Gallus gallus OX=9031 GN=STK11 PE=2 SV=1
+NP_001394184.1	sp|Q91604|STK11_XENLA	90.652	353	404	0.0	649	sp|Q91604|STK11_XENLA Serine/threonine-protein kinase stk11 OS=Xenopus laevis OX=8355 GN=stk11 PE=1 SV=1
+NP_001394184.1	sp|Q54WJ0|STK11_DICDI	45.545	303	404	2.03e-82	266	sp|Q54WJ0|STK11_DICDI Serine/threonine-protein kinase stk11 homolog OS=Dictyostelium discoideum OX=44689 GN=lkb1 PE=3 SV=1
+NP_001394184.1	sp|A8X0C4|PAR4_CAEBR	43.082	318	404	5.94e-82	266	sp|A8X0C4|PAR4_CAEBR Serine/threonine-protein kinase par-4 OS=Caenorhabditis briggsae OX=6238 GN=par-4 PE=3 SV=2
+NP_001394184.1	sp|Q9GN62|PAR4_CAEEL	42.462	325	404	1.54e-78	257	sp|Q9GN62|PAR4_CAEEL Serine/threonine-protein kinase par-4 OS=Caenorhabditis elegans OX=6239 GN=par-4 PE=1 SV=2
+NP_001394184.1	sp|Q852Q1|OSK4_ORYSJ	38.328	287	404	3.63e-53	187	sp|Q852Q1|OSK4_ORYSJ Serine/threonine protein kinase OSK4 OS=Oryza sativa subsp. japonica OX=39947 GN=OSK4 PE=1 SV=1
+NP_001394184.1	sp|B8BBT7|OSK4_ORYSI	38.328	287	404	3.63e-53	187	sp|B8BBT7|OSK4_ORYSI Serine/threonine protein kinase OSK4 OS=Oryza sativa subsp. indica OX=39946 GN=OSK4 PE=3 SV=1
+NP_001291313.1	sp|Q6ZWH5|NEK10_HUMAN	100.000	475	484	0.0	987	sp|Q6ZWH5|NEK10_HUMAN Serine/threonine-protein kinase Nek10 OS=Homo sapiens OX=9606 GN=NEK10 PE=1 SV=3
+NP_001291313.1	sp|Q3UGM2|NEK10_MOUSE	76.356	461	484	0.0	634	sp|Q3UGM2|NEK10_MOUSE Serine/threonine-protein kinase Nek10 OS=Mus musculus OX=10090 GN=Nek10 PE=2 SV=2
+NP_001291313.1	sp|P84199|NEKL4_CAEEL	48.544	103	484	1.71e-25	114	sp|P84199|NEKL4_CAEEL Serine/threonine-protein kinase D1044.8 OS=Caenorhabditis elegans OX=6239 GN=nekl-4 PE=3 SV=2
+NP_001291313.1	sp|P84199|NEKL4_CAEEL	29.927	137	484	2.54e-11	70.1	sp|P84199|NEKL4_CAEEL Serine/threonine-protein kinase D1044.8 OS=Caenorhabditis elegans OX=6239 GN=nekl-4 PE=3 SV=2
+NP_001291313.1	sp|Q9ES70|NEK6_MOUSE	45.238	84	484	2.34e-16	83.2	sp|Q9ES70|NEK6_MOUSE Serine/threonine-protein kinase Nek6 OS=Mus musculus OX=10090 GN=Nek6 PE=1 SV=1
+NP_001291313.1	sp|G5EFM9|NEKL3_CAEEL	44.048	84	484	3.99e-16	82.4	sp|G5EFM9|NEKL3_CAEEL Serine/threonine-protein kinase nekl-3 OS=Caenorhabditis elegans OX=6239 GN=nekl-3 PE=1 SV=1
+NP_001291313.1	sp|Q9HC98|NEK6_HUMAN	44.444	81	484	1.23e-15	81.3	sp|Q9HC98|NEK6_HUMAN Serine/threonine-protein kinase Nek6 OS=Homo sapiens OX=9606 GN=NEK6 PE=1 SV=2
+NP_001291313.1	sp|A2BD05|NEK6_PIG	44.048	84	484	2.70e-15	80.1	sp|A2BD05|NEK6_PIG Serine/threonine-protein kinase Nek6 OS=Sus scrofa OX=9823 GN=NEK6 PE=3 SV=1
+NP_001291313.1	sp|P59895|NEK6_RAT	44.444	81	484	2.77e-15	80.1	sp|P59895|NEK6_RAT Serine/threonine-protein kinase Nek6 OS=Rattus norvegicus OX=10116 GN=Nek6 PE=1 SV=1
+NP_001291313.1	sp|Q9ES74|NEK7_MOUSE	42.857	84	484	3.59e-15	79.7	sp|Q9ES74|NEK7_MOUSE Serine/threonine-protein kinase Nek7 OS=Mus musculus OX=10090 GN=Nek7 PE=1 SV=1
+NP_001291313.1	sp|D3ZBE5|NEK7_RAT	42.857	84	484	3.87e-15	79.3	sp|D3ZBE5|NEK7_RAT Serine/threonine-protein kinase Nek7 OS=Rattus norvegicus OX=10116 GN=Nek7 PE=1 SV=1
+NP_001365404.1	sp|P28028|BRAF_MOUSE	89.821	727	679	0.0	1315	sp|P28028|BRAF_MOUSE Serine/threonine-protein kinase B-raf OS=Mus musculus OX=10090 GN=Braf PE=1 SV=4
+NP_001365404.1	sp|P15056|BRAF_HUMAN	99.832	595	679	0.0	1249	sp|P15056|BRAF_HUMAN Serine/threonine-protein kinase B-raf OS=Homo sapiens OX=9606 GN=BRAF PE=1 SV=4
+NP_001365404.1	sp|P15056|BRAF_HUMAN	98.765	81	679	1.37e-42	168	sp|P15056|BRAF_HUMAN Serine/threonine-protein kinase B-raf OS=Homo sapiens OX=9606 GN=BRAF PE=1 SV=4
+NP_001365404.1	sp|Q04982|BRAF_CHICK	97.143	595	679	0.0	1212	sp|Q04982|BRAF_CHICK Serine/threonine-protein kinase B-raf OS=Gallus gallus OX=9031 GN=BRAF PE=1 SV=2
+NP_001365404.1	sp|Q04982|BRAF_CHICK	81.818	66	679	1.43e-23	109	sp|Q04982|BRAF_CHICK Serine/threonine-protein kinase B-raf OS=Gallus gallus OX=9031 GN=BRAF PE=1 SV=2
+NP_001365404.1	sp|P34908|BRAF_COTJA	91.236	639	679	0.0	1159	sp|P34908|BRAF_COTJA Serine/threonine-protein kinase B-raf OS=Coturnix japonica OX=93934 GN=BRAF PE=2 SV=1
+NP_001365404.1	sp|P34908|BRAF_COTJA	81.818	66	679	1.49e-23	109	sp|P34908|BRAF_COTJA Serine/threonine-protein kinase B-raf OS=Coturnix japonica OX=93934 GN=BRAF PE=2 SV=1
+NP_001365404.1	sp|P27966|RMIL_AVEVR	98.191	387	679	0.0	790	sp|P27966|RMIL_AVEVR Serine/threonine-protein kinase-transforming protein Rmil OS=Avian rous-associated virus type 1 OX=11950 GN=V-RMIL PE=3 SV=1
+NP_001365404.1	sp|P10533|RMIL_AVII1	99.455	367	679	0.0	759	sp|P10533|RMIL_AVII1 Serine/threonine-protein kinase-transforming protein Rmil OS=Avian retrovirus IC10 OX=11874 GN=V-RMIL PE=3 SV=1
+NP_001365404.1	sp|P05625|RAF1_CHICK	58.902	601	679	0.0	693	sp|P05625|RAF1_CHICK RAF proto-oncogene serine/threonine-protein kinase OS=Gallus gallus OX=9031 GN=RAF1 PE=2 SV=1
+NP_001365404.1	sp|P09560|RAF1_XENLA	58.902	601	679	0.0	679	sp|P09560|RAF1_XENLA RAF proto-oncogene serine/threonine-protein kinase OS=Xenopus laevis OX=8355 GN=raf1 PE=2 SV=1
+NP_001365404.1	sp|A7E3S4|RAF1_BOVIN	58.678	605	679	0.0	679	sp|A7E3S4|RAF1_BOVIN RAF proto-oncogene serine/threonine-protein kinase OS=Bos taurus OX=9913 GN=RAF1 PE=2 SV=1
+NP_001365404.1	sp|P11345|RAF1_RAT	58.265	611	679	0.0	677	sp|P11345|RAF1_RAT RAF proto-oncogene serine/threonine-protein kinase OS=Rattus norvegicus OX=10116 GN=Raf1 PE=1 SV=1
+NP_001363233.1	sp|Q13153|PAK1_HUMAN	100.000	447	447	0.0	923	sp|Q13153|PAK1_HUMAN Serine/threonine-protein kinase PAK 1 OS=Homo sapiens OX=9606 GN=PAK1 PE=1 SV=2
+NP_001363233.1	sp|P35465|PAK1_RAT	99.329	447	447	0.0	913	sp|P35465|PAK1_RAT Serine/threonine-protein kinase PAK 1 OS=Rattus norvegicus OX=10116 GN=Pak1 PE=1 SV=3
+NP_001363233.1	sp|Q08E52|PAK1_BOVIN	99.105	447	447	0.0	912	sp|Q08E52|PAK1_BOVIN Serine/threonine-protein kinase PAK 1 OS=Bos taurus OX=9913 GN=PAK1 PE=1 SV=1
+NP_001363233.1	sp|O88643|PAK1_MOUSE	97.763	447	447	0.0	902	sp|O88643|PAK1_MOUSE Serine/threonine-protein kinase PAK 1 OS=Mus musculus OX=10090 GN=Pak1 PE=1 SV=1
+NP_001363233.1	sp|Q8AXB4|PAK3_XENLA	83.480	454	447	0.0	765	sp|Q8AXB4|PAK3_XENLA Serine/threonine-protein kinase PAK 3 OS=Xenopus laevis OX=8355 GN=pak3 PE=2 SV=1
+NP_001363233.1	sp|Q7YQL3|PAK3_PONPY	82.599	454	447	0.0	753	sp|Q7YQL3|PAK3_PONPY Serine/threonine-protein kinase PAK 3 OS=Pongo pygmaeus OX=9600 GN=PAK3 PE=2 SV=1
+NP_001363233.1	sp|Q7YQL4|PAK3_PANTR	82.599	454	447	0.0	753	sp|Q7YQL4|PAK3_PANTR Serine/threonine-protein kinase PAK 3 OS=Pan troglodytes OX=9598 GN=PAK3 PE=2 SV=1
+NP_001363233.1	sp|O75914|PAK3_HUMAN	82.599	454	447	0.0	753	sp|O75914|PAK3_HUMAN Serine/threonine-protein kinase PAK 3 OS=Homo sapiens OX=9606 GN=PAK3 PE=1 SV=2
+NP_001363233.1	sp|Q62829|PAK3_RAT	82.159	454	447	0.0	748	sp|Q62829|PAK3_RAT Serine/threonine-protein kinase PAK 3 OS=Rattus norvegicus OX=10116 GN=Pak3 PE=1 SV=1
+NP_001363233.1	sp|Q61036|PAK3_MOUSE	81.938	454	447	0.0	743	sp|Q61036|PAK3_MOUSE Serine/threonine-protein kinase PAK 3 OS=Mus musculus OX=10090 GN=Pak3 PE=1 SV=2
+NP_001177317.2	sp|Q9Y223|GLCNE_HUMAN	100.000	663	663	0.0	1358	sp|Q9Y223|GLCNE_HUMAN Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase OS=Homo sapiens OX=9606 GN=GNE PE=1 SV=1
+NP_001177317.2	sp|Q91WG8|GLCNE_MOUSE	98.793	663	663	0.0	1346	sp|Q91WG8|GLCNE_MOUSE Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase OS=Mus musculus OX=10090 GN=Gne PE=1 SV=1
+NP_001177317.2	sp|O35826|GLCNE_RAT	98.643	663	663	0.0	1345	sp|O35826|GLCNE_RAT Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase OS=Rattus norvegicus OX=10116 GN=Gne PE=1 SV=1
+NP_001177317.2	sp|Q7TQ49|GLCNE_CRIGR	98.341	663	663	0.0	1337	sp|Q7TQ49|GLCNE_CRIGR Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase OS=Cricetulus griseus OX=10029 GN=GNE PE=1 SV=1
+NP_001177317.2	sp|P0DY05|UAEPH_CAMJ8	38.672	256	663	1.05e-45	169	sp|P0DY05|UAEPH_CAMJ8 UDP-N-acetylglucosamine 2-epimerase OS=Campylobacter jejuni subsp. jejuni serotype O:6 (strain 81116 / NCTC 11828) OX=407148 GN=HS6.10 PE=1 SV=1
+NP_001177317.2	sp|Q5ZXH8|NEUCH_LEGPH	33.435	329	663	2.04e-44	166	sp|Q5ZXH8|NEUCH_LEGPH UDP-N,N'-diacetylbacillosamine 2-epimerase (hydrolyzing) OS=Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513) OX=272624 GN=lpg0753 PE=1 SV=1
+NP_001177317.2	sp|H2VFI5|SIAA_NEIMB	31.348	319	663	6.75e-37	145	sp|H2VFI5|SIAA_NEIMB UDP-N-acetylglucosamine 2-epimerase OS=Neisseria meningitidis serogroup B (strain ATCC BAA-335 / MC58) OX=122586 GN=siaA PE=1 SV=1
+NP_001177317.2	sp|Q0P8T0|NEUCH_CAMJE	26.888	331	663	1.11e-31	130	sp|Q0P8T0|NEUCH_CAMJE GDP/UDP-N,N'-diacetylbacillosamine 2-epimerase (hydrolyzing) OS=Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168) OX=192222 GN=legG PE=1 SV=1
+NP_001177317.2	sp|P94490|XYLR_BACSU	27.812	320	663	2.77e-30	126	sp|P94490|XYLR_BACSU Xylose repressor OS=Bacillus subtilis (strain 168) OX=224308 GN=xylR PE=3 SV=3
+NP_001177317.2	sp|Q9X1I0|GLK_THEMA	34.365	323	663	6.27e-30	124	sp|Q9X1I0|GLK_THEMA Glucokinase OS=Thermotoga maritima (strain ATCC 43589 / DSM 3109 / JCM 10099 / NBRC 100826 / MSB8) OX=243274 GN=glk PE=1 SV=1
+NP_001361351.1	sp|Q96PY6|NEK1_HUMAN	100.000	422	423	0.0	877	sp|Q96PY6|NEK1_HUMAN Serine/threonine-protein kinase Nek1 OS=Homo sapiens OX=9606 GN=NEK1 PE=1 SV=2
+NP_001361351.1	sp|P51954|NEK1_MOUSE	91.232	422	423	0.0	805	sp|P51954|NEK1_MOUSE Serine/threonine-protein kinase Nek1 OS=Mus musculus OX=10090 GN=Nek1 PE=1 SV=2
+NP_001361351.1	sp|Q6P3R8|NEK5_HUMAN	62.373	295	423	4.73e-130	394	sp|Q6P3R8|NEK5_HUMAN Serine/threonine-protein kinase Nek5 OS=Homo sapiens OX=9606 GN=NEK5 PE=1 SV=1
+NP_001361351.1	sp|Q7TSC3|NEK5_MOUSE	59.341	273	423	4.29e-115	353	sp|Q7TSC3|NEK5_MOUSE Serine/threonine-protein kinase Nek5 OS=Mus musculus OX=10090 GN=Nek5 PE=2 SV=1
+NP_001361351.1	sp|P51956|NEK3_HUMAN	55.311	273	423	2.64e-112	342	sp|P51956|NEK3_HUMAN Serine/threonine-protein kinase Nek3 OS=Homo sapiens OX=9606 GN=NEK3 PE=1 SV=2
+NP_001361351.1	sp|Q9R0A5|NEK3_MOUSE	55.311	273	423	5.27e-107	328	sp|Q9R0A5|NEK3_MOUSE Serine/threonine-protein kinase Nek3 OS=Mus musculus OX=10090 GN=Nek3 PE=1 SV=2
+NP_001361351.1	sp|P51957|NEK4_HUMAN	50.562	267	423	4.05e-95	306	sp|P51957|NEK4_HUMAN Serine/threonine-protein kinase Nek4 OS=Homo sapiens OX=9606 GN=NEK4 PE=1 SV=2
+NP_001361351.1	sp|Q9Z1J2|NEK4_MOUSE	51.136	264	423	1.68e-94	303	sp|Q9Z1J2|NEK4_MOUSE Serine/threonine-protein kinase Nek4 OS=Mus musculus OX=10090 GN=Nek4 PE=1 SV=1
+NP_001361351.1	sp|Q86I06|NEK3_DICDI	51.825	274	423	6.18e-89	295	sp|Q86I06|NEK3_DICDI Probable serine/threonine-protein kinase nek3 OS=Dictyostelium discoideum OX=44689 GN=nek3 PE=3 SV=1
+NP_001361351.1	sp|Q86SG6|NEK8_HUMAN	48.438	256	423	6.17e-75	250	sp|Q86SG6|NEK8_HUMAN Serine/threonine-protein kinase Nek8 OS=Homo sapiens OX=9606 GN=NEK8 PE=1 SV=1
+NP_001341624.1	sp|Q5R5M7|RAF1_PONAB	93.715	541	534	0.0	1052	sp|Q5R5M7|RAF1_PONAB RAF proto-oncogene serine/threonine-protein kinase OS=Pongo abelii OX=9601 GN=RAF1 PE=2 SV=1
+NP_001341624.1	sp|P04049|RAF1_HUMAN	93.715	541	534	0.0	1052	sp|P04049|RAF1_HUMAN RAF proto-oncogene serine/threonine-protein kinase OS=Homo sapiens OX=9606 GN=RAF1 PE=1 SV=1
+NP_001341624.1	sp|P11345|RAF1_RAT	93.161	541	534	0.0	1046	sp|P11345|RAF1_RAT RAF proto-oncogene serine/threonine-protein kinase OS=Rattus norvegicus OX=10116 GN=Raf1 PE=1 SV=1
+NP_001341624.1	sp|Q99N57|RAF1_MOUSE	92.421	541	534	0.0	1038	sp|Q99N57|RAF1_MOUSE RAF proto-oncogene serine/threonine-protein kinase OS=Mus musculus OX=10090 GN=Raf1 PE=1 SV=2
+NP_001341624.1	sp|A7E3S4|RAF1_BOVIN	92.237	541	534	0.0	1036	sp|A7E3S4|RAF1_BOVIN RAF proto-oncogene serine/threonine-protein kinase OS=Bos taurus OX=9913 GN=RAF1 PE=2 SV=1
+NP_001341624.1	sp|P05625|RAF1_CHICK	89.834	541	534	0.0	1016	sp|P05625|RAF1_CHICK RAF proto-oncogene serine/threonine-protein kinase OS=Gallus gallus OX=9031 GN=RAF1 PE=2 SV=1
+NP_001341624.1	sp|P09560|RAF1_XENLA	82.004	539	534	0.0	910	sp|P09560|RAF1_XENLA RAF proto-oncogene serine/threonine-protein kinase OS=Xenopus laevis OX=8355 GN=raf1 PE=2 SV=1
+NP_001341624.1	sp|P00531|MIL_AVIMH	94.474	380	534	0.0	735	sp|P00531|MIL_AVIMH Serine/threonine-protein kinase-transforming protein mil OS=Avian retrovirus MH2 OX=11870 GN=V-MIL PE=3 SV=1
+NP_001341624.1	sp|P14056|ARAF_RAT	61.368	541	534	0.0	671	sp|P14056|ARAF_RAT Serine/threonine-protein kinase A-Raf OS=Rattus norvegicus OX=10116 GN=Araf PE=1 SV=1
+NP_001341624.1	sp|P04627|ARAF_MOUSE	61.183	541	534	0.0	670	sp|P04627|ARAF_MOUSE Serine/threonine-protein kinase A-Raf OS=Mus musculus OX=10090 GN=Araf PE=1 SV=2
+NP_001274274.1	sp|Q06187|BTK_HUMAN	98.580	352	483	0.0	725	sp|Q06187|BTK_HUMAN Tyrosine-protein kinase BTK OS=Homo sapiens OX=9606 GN=BTK PE=1 SV=3
+NP_001274274.1	sp|Q06187|BTK_HUMAN	100.000	138	483	2.96e-90	291	sp|Q06187|BTK_HUMAN Tyrosine-protein kinase BTK OS=Homo sapiens OX=9606 GN=BTK PE=1 SV=3
+NP_001274274.1	sp|P35991|BTK_MOUSE	96.591	352	483	0.0	716	sp|P35991|BTK_MOUSE Tyrosine-protein kinase BTK OS=Mus musculus OX=10090 GN=Btk PE=1 SV=4
+NP_001274274.1	sp|P35991|BTK_MOUSE	98.551	138	483	2.46e-89	289	sp|P35991|BTK_MOUSE Tyrosine-protein kinase BTK OS=Mus musculus OX=10090 GN=Btk PE=1 SV=4
+NP_001274274.1	sp|Q8JH64|BTK_CHICK	75.765	392	483	0.0	614	sp|Q8JH64|BTK_CHICK Tyrosine-protein kinase BTK OS=Gallus gallus OX=9031 GN=BTK PE=1 SV=1
+NP_001274274.1	sp|Q8JH64|BTK_CHICK	83.942	137	483	6.70e-77	256	sp|Q8JH64|BTK_CHICK Tyrosine-protein kinase BTK OS=Gallus gallus OX=9031 GN=BTK PE=1 SV=1
+NP_001274274.1	sp|P42680|TEC_HUMAN	42.408	382	483	1.27e-84	276	sp|P42680|TEC_HUMAN Tyrosine-protein kinase Tec OS=Homo sapiens OX=9606 GN=TEC PE=1 SV=2
+NP_001274274.1	sp|P42680|TEC_HUMAN	59.854	137	483	1.45e-51	187	sp|P42680|TEC_HUMAN Tyrosine-protein kinase Tec OS=Homo sapiens OX=9606 GN=TEC PE=1 SV=2
+NP_001274274.1	sp|P24604|TEC_MOUSE	44.318	352	483	7.11e-81	266	sp|P24604|TEC_MOUSE Tyrosine-protein kinase Tec OS=Mus musculus OX=10090 GN=Tec PE=1 SV=2
+NP_001274274.1	sp|P24604|TEC_MOUSE	58.394	137	483	5.10e-50	183	sp|P24604|TEC_MOUSE Tyrosine-protein kinase Tec OS=Mus musculus OX=10090 GN=Tec PE=1 SV=2
+NP_001274274.1	sp|Q08881|ITK_HUMAN	42.330	352	483	2.29e-78	259	sp|Q08881|ITK_HUMAN Tyrosine-protein kinase ITK/TSK OS=Homo sapiens OX=9606 GN=ITK PE=1 SV=1
+NP_001274274.1	sp|Q08881|ITK_HUMAN	57.778	135	483	3.59e-49	181	sp|Q08881|ITK_HUMAN Tyrosine-protein kinase ITK/TSK OS=Homo sapiens OX=9606 GN=ITK PE=1 SV=1
+NP_001274274.1	sp|Q03526|ITK_MOUSE	41.127	355	483	4.35e-75	251	sp|Q03526|ITK_MOUSE Tyrosine-protein kinase ITK/TSK OS=Mus musculus OX=10090 GN=Itk PE=1 SV=1
+NP_001274274.1	sp|Q03526|ITK_MOUSE	59.259	135	483	1.35e-49	182	sp|Q03526|ITK_MOUSE Tyrosine-protein kinase ITK/TSK OS=Mus musculus OX=10090 GN=Itk PE=1 SV=1
+NP_001274274.1	sp|P51813|BMX_HUMAN	36.573	391	483	2.65e-63	220	sp|P51813|BMX_HUMAN Cytoplasmic tyrosine-protein kinase BMX OS=Homo sapiens OX=9606 GN=BMX PE=1 SV=1
+NP_001274274.1	sp|P51813|BMX_HUMAN	66.154	130	483	1.69e-54	196	sp|P51813|BMX_HUMAN Cytoplasmic tyrosine-protein kinase BMX OS=Homo sapiens OX=9606 GN=BMX PE=1 SV=1
+NP_001274274.1	sp|P97504|BMX_MOUSE	37.634	372	483	8.00e-57	202	sp|P97504|BMX_MOUSE Cytoplasmic tyrosine-protein kinase BMX OS=Mus musculus OX=10090 GN=Bmx PE=2 SV=1
+NP_001274274.1	sp|P97504|BMX_MOUSE	66.154	130	483	1.61e-53	193	sp|P97504|BMX_MOUSE Cytoplasmic tyrosine-protein kinase BMX OS=Mus musculus OX=10090 GN=Bmx PE=2 SV=1
+NP_001274274.1	sp|P42681|TXK_HUMAN	59.259	135	483	2.57e-54	193	sp|P42681|TXK_HUMAN Tyrosine-protein kinase TXK OS=Homo sapiens OX=9606 GN=TXK PE=1 SV=3
+NP_001274274.1	sp|P42681|TXK_HUMAN	49.265	136	483	2.71e-36	144	sp|P42681|TXK_HUMAN Tyrosine-protein kinase TXK OS=Homo sapiens OX=9606 GN=TXK PE=1 SV=3
+NP_001263218.1	sp|Q5REL1|KAP0_PONAB	100.000	381	381	0.0	781	sp|Q5REL1|KAP0_PONAB cAMP-dependent protein kinase type I-alpha regulatory subunit OS=Pongo abelii OX=9601 GN=PRKAR1A PE=2 SV=2
+NP_001263218.1	sp|P10644|KAP0_HUMAN	100.000	381	381	0.0	781	sp|P10644|KAP0_HUMAN cAMP-dependent protein kinase type I-alpha regulatory subunit OS=Homo sapiens OX=9606 GN=PRKAR1A PE=1 SV=1
+NP_001263218.1	sp|P09456|KAP0_RAT	97.375	381	381	0.0	762	sp|P09456|KAP0_RAT cAMP-dependent protein kinase type I-alpha regulatory subunit OS=Rattus norvegicus OX=10116 GN=Prkar1a PE=1 SV=2
+NP_001263218.1	sp|P00514|KAP0_BOVIN	97.638	381	381	0.0	760	sp|P00514|KAP0_BOVIN cAMP-dependent protein kinase type I-alpha regulatory subunit OS=Bos taurus OX=9913 GN=PRKAR1A PE=1 SV=2
+NP_001263218.1	sp|P07802|KAP0_PIG	97.638	381	381	0.0	757	sp|P07802|KAP0_PIG cAMP-dependent protein kinase type I-alpha regulatory subunit OS=Sus scrofa OX=9823 GN=PRKAR1A PE=1 SV=2
+NP_001263218.1	sp|Q9DBC7|KAP0_MOUSE	96.850	381	381	0.0	757	sp|Q9DBC7|KAP0_MOUSE cAMP-dependent protein kinase type I-alpha regulatory subunit OS=Mus musculus OX=10090 GN=Prkar1a PE=1 SV=3
+NP_001263218.1	sp|Q5ZM91|KAP0_CHICK	93.973	365	381	0.0	709	sp|Q5ZM91|KAP0_CHICK cAMP-dependent protein kinase type I-alpha regulatory subunit OS=Gallus gallus OX=9031 GN=PRKAR1A PE=2 SV=1
+NP_001263218.1	sp|Q5I0F6|KAP0_DANRE	92.098	367	381	0.0	679	sp|Q5I0F6|KAP0_DANRE cAMP-dependent protein kinase type I-alpha regulatory subunit OS=Danio rerio OX=7955 GN=prkar1aa PE=1 SV=1
+NP_001263218.1	sp|P31321|KAP1_HUMAN	81.365	381	381	0.0	655	sp|P31321|KAP1_HUMAN cAMP-dependent protein kinase type I-beta regulatory subunit OS=Homo sapiens OX=9606 GN=PRKAR1B PE=1 SV=4
+NP_001263218.1	sp|P12849|KAP1_MOUSE	81.365	381	381	0.0	653	sp|P12849|KAP1_MOUSE cAMP-dependent protein kinase type I-beta regulatory subunit OS=Mus musculus OX=10090 GN=Prkar1b PE=1 SV=2
+NP_001193658.1	sp|Q9WUA6|AKT3_MOUSE	98.698	461	465	0.0	940	sp|Q9WUA6|AKT3_MOUSE RAC-gamma serine/threonine-protein kinase OS=Mus musculus OX=10090 GN=Akt3 PE=1 SV=1
+NP_001193658.1	sp|Q9Y243|AKT3_HUMAN	97.204	465	465	0.0	940	sp|Q9Y243|AKT3_HUMAN RAC-gamma serine/threonine-protein kinase OS=Homo sapiens OX=9606 GN=AKT3 PE=1 SV=1
+NP_001193658.1	sp|Q63484|AKT3_RAT	98.475	459	465	0.0	933	sp|Q63484|AKT3_RAT RAC-gamma serine/threonine-protein kinase OS=Rattus norvegicus OX=10116 GN=Akt3 PE=2 SV=2
+NP_001193658.1	sp|Q98TY9|AKT1_XENLA	83.736	455	465	0.0	791	sp|Q98TY9|AKT1_XENLA RAC-alpha serine/threonine-protein kinase OS=Xenopus laevis OX=8355 GN=akt1 PE=2 SV=1
+NP_001193658.1	sp|P31749|AKT1_HUMAN	82.391	460	465	0.0	789	sp|P31749|AKT1_HUMAN RAC-alpha serine/threonine-protein kinase OS=Homo sapiens OX=9606 GN=AKT1 PE=1 SV=2
+NP_001193658.1	sp|P31748|AKT_MLVAT	82.174	460	465	0.0	788	sp|P31748|AKT_MLVAT AKT kinase-transforming protein OS=AKT8 murine leukemia virus OX=11790 GN=V-AKT PE=1 SV=1
+NP_001193658.1	sp|P31750|AKT1_MOUSE	82.174	460	465	0.0	787	sp|P31750|AKT1_MOUSE RAC-alpha serine/threonine-protein kinase OS=Mus musculus OX=10090 GN=Akt1 PE=1 SV=2
+NP_001193658.1	sp|P47196|AKT1_RAT	81.957	460	465	0.0	786	sp|P47196|AKT1_RAT RAC-alpha serine/threonine-protein kinase OS=Rattus norvegicus OX=10116 GN=Akt1 PE=1 SV=1
+NP_001193658.1	sp|Q01314|AKT1_BOVIN	83.040	454	465	0.0	785	sp|Q01314|AKT1_BOVIN RAC-alpha serine/threonine-protein kinase OS=Bos taurus OX=9913 GN=AKT1 PE=1 SV=2
+NP_001193658.1	sp|P31751|AKT2_HUMAN	78.509	456	465	0.0	758	sp|P31751|AKT2_HUMAN RAC-beta serine/threonine-protein kinase OS=Homo sapiens OX=9606 GN=AKT2 PE=1 SV=2
+NP_001191112.1	sp|P51955|NEK2_HUMAN	100.000	370	384	0.0	763	sp|P51955|NEK2_HUMAN Serine/threonine-protein kinase Nek2 OS=Homo sapiens OX=9606 GN=NEK2 PE=1 SV=1
+NP_001191112.1	sp|O35942|NEK2_MOUSE	88.919	370	384	0.0	661	sp|O35942|NEK2_MOUSE Serine/threonine-protein kinase Nek2 OS=Mus musculus OX=10090 GN=Nek2 PE=1 SV=2
+NP_001191112.1	sp|Q55BN8|NEK2_DICDI	48.529	340	384	2.44e-111	335	sp|Q55BN8|NEK2_DICDI Probable serine/threonine-protein kinase nek2 OS=Dictyostelium discoideum OX=44689 GN=nek2 PE=1 SV=1
+NP_001191112.1	sp|P11837|NIMA_EMENI	40.166	361	384	1.98e-80	263	sp|P11837|NIMA_EMENI G2-specific protein kinase nimA OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) OX=227321 GN=nimA PE=1 SV=1
+NP_001191112.1	sp|O13839|FIN1_SCHPO	38.398	362	384	2.17e-73	245	sp|O13839|FIN1_SCHPO G2-specific protein kinase fin1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=fin1 PE=3 SV=1
+NP_001191112.1	sp|P48479|NIM1_NEUCR	43.986	291	384	3.26e-72	244	sp|P48479|NIM1_NEUCR G2-specific protein kinase nim-1 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=nim-1 PE=2 SV=2
+NP_001191112.1	sp|P22209|KIN3_YEAST	35.610	410	384	1.26e-66	220	sp|P22209|KIN3_YEAST Serine/threonine-protein kinase KIN3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=KIN3 PE=3 SV=2
+NP_001191112.1	sp|Q86I06|NEK3_DICDI	45.185	270	384	7.88e-63	221	sp|Q86I06|NEK3_DICDI Probable serine/threonine-protein kinase nek3 OS=Dictyostelium discoideum OX=44689 GN=nek3 PE=3 SV=1
+NP_001191112.1	sp|Q6P3R8|NEK5_HUMAN	41.176	272	384	1.96e-60	210	sp|Q6P3R8|NEK5_HUMAN Serine/threonine-protein kinase Nek5 OS=Homo sapiens OX=9606 GN=NEK5 PE=1 SV=1
+NP_001191112.1	sp|P51956|NEK3_HUMAN	35.492	386	384	6.64e-60	204	sp|P51956|NEK3_HUMAN Serine/threonine-protein kinase Nek3 OS=Homo sapiens OX=9606 GN=NEK3 PE=1 SV=2
+NP_001165903.1	sp|P15735|PHKG2_HUMAN	99.451	364	374	0.0	752	sp|P15735|PHKG2_HUMAN Phosphorylase b kinase gamma catalytic chain, liver/testis isoform OS=Homo sapiens OX=9606 GN=PHKG2 PE=1 SV=1
+NP_001165903.1	sp|Q2KJ16|PHKG2_BOVIN	96.429	364	374	0.0	729	sp|Q2KJ16|PHKG2_BOVIN Phosphorylase b kinase gamma catalytic chain, liver/testis isoform OS=Bos taurus OX=9913 GN=PHKG2 PE=2 SV=1
+NP_001165903.1	sp|Q9DB30|PHKG2_MOUSE	95.330	364	374	0.0	728	sp|Q9DB30|PHKG2_MOUSE Phosphorylase b kinase gamma catalytic chain, liver/testis isoform OS=Mus musculus OX=10090 GN=Phkg2 PE=2 SV=2
+NP_001165903.1	sp|P31325|PHKG2_RAT	94.505	364	374	0.0	724	sp|P31325|PHKG2_RAT Phosphorylase b kinase gamma catalytic chain, liver/testis isoform OS=Rattus norvegicus OX=10116 GN=Phkg2 PE=1 SV=1
+NP_001165903.1	sp|Q16816|PHKG1_HUMAN	63.687	358	374	5.01e-179	505	sp|Q16816|PHKG1_HUMAN Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform OS=Homo sapiens OX=9606 GN=PHKG1 PE=1 SV=3
+NP_001165903.1	sp|P13286|PHKG1_RAT	63.128	358	374	9.89e-177	499	sp|P13286|PHKG1_RAT Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform OS=Rattus norvegicus OX=10116 GN=Phkg1 PE=2 SV=2
+NP_001165903.1	sp|P07934|PHKG1_MOUSE	62.570	358	374	2.45e-176	498	sp|P07934|PHKG1_MOUSE Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform OS=Mus musculus OX=10090 GN=Phkg1 PE=1 SV=3
+NP_001165903.1	sp|P00518|PHKG1_RABIT	63.380	355	374	4.27e-174	493	sp|P00518|PHKG1_RABIT Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform OS=Oryctolagus cuniculus OX=9986 GN=PHKG1 PE=1 SV=2
+NP_001165903.1	sp|A8WXF6|KCC2D_CAEBR	41.935	279	374	3.46e-69	229	sp|A8WXF6|KCC2D_CAEBR Calcium/calmodulin-dependent protein kinase type II OS=Caenorhabditis briggsae OX=6238 GN=unc-43 PE=3 SV=1
+NP_001165903.1	sp|O62305|KCC2D_CAEEL	42.294	279	374	6.16e-68	230	sp|O62305|KCC2D_CAEEL Calcium/calmodulin-dependent protein kinase type II OS=Caenorhabditis elegans OX=6239 GN=unc-43 PE=1 SV=2
+NP_001138778.1	sp|Q00534|CDK6_HUMAN	100.000	326	326	0.0	674	sp|Q00534|CDK6_HUMAN Cyclin-dependent kinase 6 OS=Homo sapiens OX=9606 GN=CDK6 PE=1 SV=1
+NP_001138778.1	sp|Q64261|CDK6_MOUSE	96.319	326	326	0.0	652	sp|Q64261|CDK6_MOUSE Cyclin-dependent kinase 6 OS=Mus musculus OX=10090 GN=Cdk6 PE=1 SV=2
+NP_001138778.1	sp|Q91727|CDK4_XENLA	71.821	291	326	3.90e-155	440	sp|Q91727|CDK4_XENLA Cyclin-dependent kinase 4 OS=Xenopus laevis OX=8355 GN=cdk4 PE=1 SV=1
+NP_001138778.1	sp|P79432|CDK4_PIG	69.307	303	326	1.25e-150	428	sp|P79432|CDK4_PIG Cyclin-dependent kinase 4 OS=Sus scrofa OX=9823 GN=CDK4 PE=3 SV=1
+NP_001138778.1	sp|B2MVY4|CDK4_SHEEP	69.900	299	326	1.31e-150	428	sp|B2MVY4|CDK4_SHEEP Cyclin-dependent kinase 4 OS=Ovis aries OX=9940 PE=2 SV=1
+NP_001138778.1	sp|Q32KY4|CDK4_BOVIN	69.900	299	326	1.31e-150	428	sp|Q32KY4|CDK4_BOVIN Cyclin-dependent kinase 4 OS=Bos taurus OX=9913 GN=CDK4 PE=2 SV=1
+NP_001138778.1	sp|P35426|CDK4_RAT	68.317	303	326	7.21e-150	426	sp|P35426|CDK4_RAT Cyclin-dependent kinase 4 OS=Rattus norvegicus OX=10116 GN=Cdk4 PE=1 SV=1
+NP_001138778.1	sp|P30285|CDK4_MOUSE	68.317	303	326	1.00e-149	426	sp|P30285|CDK4_MOUSE Cyclin-dependent kinase 4 OS=Mus musculus OX=10090 GN=Cdk4 PE=1 SV=1
+NP_001138778.1	sp|P11802|CDK4_HUMAN	69.637	303	326	1.37e-149	425	sp|P11802|CDK4_HUMAN Cyclin-dependent kinase 4 OS=Homo sapiens OX=9606 GN=CDK4 PE=1 SV=2
+NP_001138778.1	sp|Q00526|CDK3_HUMAN	47.973	296	326	6.21e-92	279	sp|Q00526|CDK3_HUMAN Cyclin-dependent kinase 3 OS=Homo sapiens OX=9606 GN=CDK3 PE=1 SV=1
+NP_620581.1	sp|Q16539|MK14_HUMAN	100.000	360	360	0.0	751	sp|Q16539|MK14_HUMAN Mitogen-activated protein kinase 14 OS=Homo sapiens OX=9606 GN=MAPK14 PE=1 SV=3
+NP_620581.1	sp|O02812|MK14_CANLF	99.444	360	360	0.0	750	sp|O02812|MK14_CANLF Mitogen-activated protein kinase 14 OS=Canis lupus familiaris OX=9615 GN=MAPK14 PE=2 SV=3
+NP_620581.1	sp|P47811|MK14_MOUSE	99.444	360	360	0.0	747	sp|P47811|MK14_MOUSE Mitogen-activated protein kinase 14 OS=Mus musculus OX=10090 GN=Mapk14 PE=1 SV=3
+NP_620581.1	sp|P70618|MK14_RAT	98.611	360	360	0.0	744	sp|P70618|MK14_RAT Mitogen-activated protein kinase 14 OS=Rattus norvegicus OX=10116 GN=Mapk14 PE=1 SV=3
+NP_620581.1	sp|Q95NE7|MK14_PANTR	96.111	360	360	0.0	726	sp|Q95NE7|MK14_PANTR Mitogen-activated protein kinase 14 OS=Pan troglodytes OX=9598 GN=MAPK14 PE=2 SV=3
+NP_620581.1	sp|P47812|MK14_XENLA	88.579	359	360	0.0	677	sp|P47812|MK14_XENLA Mitogen-activated protein kinase 14 OS=Xenopus laevis OX=8355 GN=mapk14 PE=2 SV=1
+NP_620581.1	sp|Q9I958|MK14B_CYPCA	86.872	358	360	0.0	657	sp|Q9I958|MK14B_CYPCA Mitogen-activated protein kinase 14B OS=Cyprinus carpio OX=7962 GN=mapk14b PE=1 SV=1
+NP_620581.1	sp|Q90336|MK14A_CYPCA	86.427	361	360	0.0	655	sp|Q90336|MK14A_CYPCA Mitogen-activated protein kinase 14A OS=Cyprinus carpio OX=7962 GN=mapk14a PE=1 SV=1
+NP_620581.1	sp|Q9DGE2|MK14A_DANRE	85.873	361	360	0.0	652	sp|Q9DGE2|MK14A_DANRE Mitogen-activated protein kinase 14A OS=Danio rerio OX=7955 GN=mapk14a PE=1 SV=1
+NP_620581.1	sp|Q9DGE1|MK14B_DANRE	88.630	343	360	0.0	632	sp|Q9DGE1|MK14B_DANRE Mitogen-activated protein kinase 14B OS=Danio rerio OX=7955 GN=mapk14b PE=1 SV=1
+NP_149109.1	sp|Q9H1R3|MYLK2_HUMAN	100.000	596	596	0.0	1229	sp|Q9H1R3|MYLK2_HUMAN Myosin light chain kinase 2, skeletal/cardiac muscle OS=Homo sapiens OX=9606 GN=MYLK2 PE=1 SV=3
+NP_149109.1	sp|P07313|MYLK2_RABIT	86.513	608	596	0.0	1032	sp|P07313|MYLK2_RABIT Myosin light chain kinase 2, skeletal/cardiac muscle OS=Oryctolagus cuniculus OX=9986 GN=MYLK2 PE=1 SV=3
+NP_149109.1	sp|A4IFM7|MYLK2_BOVIN	81.541	623	596	0.0	976	sp|A4IFM7|MYLK2_BOVIN Myosin light chain kinase 2, skeletal/cardiac muscle OS=Bos taurus OX=9913 GN=MYLK2 PE=1 SV=1
+NP_149109.1	sp|Q8VCR8|MYLK2_MOUSE	79.545	616	596	0.0	902	sp|Q8VCR8|MYLK2_MOUSE Myosin light chain kinase 2, skeletal/cardiac muscle OS=Mus musculus OX=10090 GN=Mylk2 PE=1 SV=2
+NP_149109.1	sp|P20689|MYLK2_RAT	76.423	615	596	0.0	899	sp|P20689|MYLK2_RAT Myosin light chain kinase 2, skeletal/cardiac muscle OS=Rattus norvegicus OX=10116 GN=Mylk2 PE=1 SV=2
+NP_149109.1	sp|Q32MK0|MYLK3_HUMAN	61.862	333	596	1.88e-153	464	sp|Q32MK0|MYLK3_HUMAN Myosin light chain kinase 3 OS=Homo sapiens OX=9606 GN=MYLK3 PE=1 SV=3
+NP_149109.1	sp|Q5RDG7|MYLK3_PONAB	62.121	330	596	9.95e-153	462	sp|Q5RDG7|MYLK3_PONAB Myosin light chain kinase 3 OS=Pongo abelii OX=9601 GN=MYLK3 PE=2 SV=3
+NP_149109.1	sp|A8C984|MYLK3_DANRE	59.649	342	596	9.94e-149	448	sp|A8C984|MYLK3_DANRE Myosin light chain kinase 3 OS=Danio rerio OX=7955 GN=mylk3 PE=2 SV=1
+NP_149109.1	sp|E9PT87|MYLK3_RAT	57.593	349	596	2.46e-147	447	sp|E9PT87|MYLK3_RAT Myosin light chain kinase 3 OS=Rattus norvegicus OX=10116 GN=Mylk3 PE=1 SV=1
+NP_149109.1	sp|Q3UIZ8|MYLK3_MOUSE	56.734	349	596	2.36e-144	440	sp|Q3UIZ8|MYLK3_MOUSE Myosin light chain kinase 3 OS=Mus musculus OX=10090 GN=Mylk3 PE=1 SV=1
+NP_002746.1	sp|Q02750|MP2K1_HUMAN	100.000	393	393	0.0	810	sp|Q02750|MP2K1_HUMAN Dual specificity mitogen-activated protein kinase kinase 1 OS=Homo sapiens OX=9606 GN=MAP2K1 PE=1 SV=2
+NP_002746.1	sp|P29678|MP2K1_RABIT	99.746	393	393	0.0	808	sp|P29678|MP2K1_RABIT Dual specificity mitogen-activated protein kinase kinase 1 OS=Oryctolagus cuniculus OX=9986 GN=MAP2K1 PE=1 SV=2
+NP_002746.1	sp|Q01986|MP2K1_RAT	99.237	393	393	0.0	806	sp|Q01986|MP2K1_RAT Dual specificity mitogen-activated protein kinase kinase 1 OS=Rattus norvegicus OX=10116 GN=Map2k1 PE=1 SV=2
+NP_002746.1	sp|P31938|MP2K1_MOUSE	98.982	393	393	0.0	805	sp|P31938|MP2K1_MOUSE Dual specificity mitogen-activated protein kinase kinase 1 OS=Mus musculus OX=10090 GN=Map2k1 PE=1 SV=2
+NP_002746.1	sp|Q9XT09|MP2K1_PANTR	98.982	393	393	0.0	802	sp|Q9XT09|MP2K1_PANTR Dual specificity mitogen-activated protein kinase kinase 1 OS=Pan troglodytes OX=9598 GN=MAP2K1 PE=2 SV=3
+NP_002746.1	sp|Q63980|MP2K1_CRIGR	97.710	393	393	0.0	796	sp|Q63980|MP2K1_CRIGR Dual specificity mitogen-activated protein kinase kinase 1 OS=Cricetulus griseus OX=10029 GN=MAP2K1 PE=1 SV=1
+NP_002746.1	sp|Q91447|MP2K1_SERCA	95.361	388	393	0.0	764	sp|Q91447|MP2K1_SERCA Dual specificity mitogen-activated protein kinase kinase 1 (Fragment) OS=Serinus canaria OX=9135 GN=MAP2K1 PE=2 SV=1
+NP_002746.1	sp|Q05116|MP2K1_XENLA	91.899	395	393	0.0	731	sp|Q05116|MP2K1_XENLA Dual specificity mitogen-activated protein kinase kinase 1 OS=Xenopus laevis OX=8355 GN=map2k1 PE=1 SV=2
+NP_002746.1	sp|Q90891|MP2K2_CHICK	81.454	399	393	0.0	654	sp|Q90891|MP2K2_CHICK Dual specificity mitogen-activated protein kinase kinase 2 OS=Gallus gallus OX=9031 GN=MAP2K2 PE=2 SV=1
+NP_002746.1	sp|Q90321|MP2K2_CYPCA	78.680	394	393	0.0	647	sp|Q90321|MP2K2_CYPCA Dual specificity mitogen-activated protein kinase kinase 2 OS=Cyprinus carpio OX=7962 GN=map2k2 PE=2 SV=1
+NP_001091982.1	sp|Q13976|KGP1_HUMAN	100.000	671	671	0.0	1390	sp|Q13976|KGP1_HUMAN cGMP-dependent protein kinase 1 OS=Homo sapiens OX=9606 GN=PRKG1 PE=1 SV=3
+NP_001091982.1	sp|P00516|KGP1_BOVIN	99.702	671	671	0.0	1385	sp|P00516|KGP1_BOVIN cGMP-dependent protein kinase 1 OS=Bos taurus OX=9913 GN=PRKG1 PE=1 SV=2
+NP_001091982.1	sp|P0C605|KGP1_MOUSE	99.553	671	671	0.0	1385	sp|P0C605|KGP1_MOUSE cGMP-dependent protein kinase 1 OS=Mus musculus OX=10090 GN=Prkg1 PE=1 SV=1
+NP_001091982.1	sp|O77676|KGP1_RABIT	98.957	671	671	0.0	1374	sp|O77676|KGP1_RABIT cGMP-dependent protein kinase 1 OS=Oryctolagus cuniculus OX=9986 GN=PRKG1 PE=1 SV=3
+NP_001091982.1	sp|Q03043|KGP24_DROME	60.340	706	671	0.0	851	sp|Q03043|KGP24_DROME cGMP-dependent protein kinase, isozyme 2 forms cD4/T1/T3A/T3B OS=Drosophila melanogaster OX=7227 GN=for PE=1 SV=3
+NP_001091982.1	sp|P32023|KGP25_DROME	61.458	576	671	0.0	729	sp|P32023|KGP25_DROME cGMP-dependent protein kinase, isozyme 2 forms cD5/T2 OS=Drosophila melanogaster OX=7227 GN=for PE=2 SV=3
+NP_001091982.1	sp|Q03042|KGP1_DROME	55.222	632	671	0.0	712	sp|Q03042|KGP1_DROME cGMP-dependent protein kinase, isozyme 1 OS=Drosophila melanogaster OX=7227 GN=Pkg21D PE=1 SV=2
+NP_001091982.1	sp|O76360|EGL4_CAEEL	49.493	691	671	0.0	692	sp|O76360|EGL4_CAEEL cGMP-dependent protein kinase egl-4 OS=Caenorhabditis elegans OX=6239 GN=egl-4 PE=1 SV=2
+NP_001091982.1	sp|A8X6H1|EGL4_CAEBR	49.133	692	671	0.0	685	sp|A8X6H1|EGL4_CAEBR cGMP-dependent protein kinase egl-4 OS=Caenorhabditis briggsae OX=6238 GN=egl-4 PE=3 SV=2
+NP_001091982.1	sp|Q64595|KGP2_RAT	49.187	738	671	0.0	681	sp|Q64595|KGP2_RAT cGMP-dependent protein kinase 2 OS=Rattus norvegicus OX=10116 GN=Prkg2 PE=1 SV=1
+NP_001349403.1	sp|P49918|CDN1C_HUMAN	100.000	316	316	0.0	595	sp|P49918|CDN1C_HUMAN Cyclin-dependent kinase inhibitor 1C OS=Homo sapiens OX=9606 GN=CDKN1C PE=1 SV=1
+NP_001349403.1	sp|P49919|CDN1C_MOUSE	51.105	362	316	6.11e-87	267	sp|P49919|CDN1C_MOUSE Cyclin-dependent kinase inhibitor 1C OS=Mus musculus OX=10090 GN=Cdkn1c PE=1 SV=2
+NP_001349403.1	sp|Q60439|CDN1B_CRIGR	44.086	93	316	1.69e-17	82.4	sp|Q60439|CDN1B_CRIGR Cyclin-dependent kinase inhibitor 1B OS=Cricetulus griseus OX=10029 GN=CDKN1B PE=2 SV=1
+NP_001349403.1	sp|Q6SLL5|CDN1B_CANLF	48.438	64	316	6.03e-17	80.9	sp|Q6SLL5|CDN1B_CANLF Cyclin-dependent kinase inhibitor 1B OS=Canis lupus familiaris OX=9615 GN=CDKN1B PE=2 SV=1
+NP_001349403.1	sp|P46527|CDN1B_HUMAN	41.935	93	316	1.08e-16	80.1	sp|P46527|CDN1B_HUMAN Cyclin-dependent kinase inhibitor 1B OS=Homo sapiens OX=9606 GN=CDKN1B PE=1 SV=1
+NP_001349403.1	sp|O19001|CDN1B_FELCA	40.860	93	316	2.06e-16	79.3	sp|O19001|CDN1B_FELCA Cyclin-dependent kinase inhibitor 1B OS=Felis catus OX=9685 GN=CDKN1B PE=2 SV=1
+NP_001349403.1	sp|P46414|CDN1B_MOUSE	41.935	93	316	3.58e-16	79.0	sp|P46414|CDN1B_MOUSE Cyclin-dependent kinase inhibitor 1B OS=Mus musculus OX=10090 GN=Cdkn1b PE=1 SV=2
+NP_001349403.1	sp|P46529|CDN1B_NEOVI	40.860	93	316	3.71e-16	78.2	sp|P46529|CDN1B_NEOVI Cyclin-dependent kinase inhibitor 1B (Fragment) OS=Neogale vison OX=452646 GN=CDKN1B PE=2 SV=1
+NP_001349403.1	sp|P39689|CDN1A_MOUSE	41.429	70	316	7.91e-09	57.4	sp|P39689|CDN1A_MOUSE Cyclin-dependent kinase inhibitor 1 OS=Mus musculus OX=10090 GN=Cdkn1a PE=1 SV=4
+NP_001349403.1	sp|P38936|CDN1A_HUMAN	41.538	65	316	1.08e-08	57.0	sp|P38936|CDN1A_HUMAN Cyclin-dependent kinase inhibitor 1 OS=Homo sapiens OX=9606 GN=CDKN1A PE=1 SV=3
+NP_001305133.1	sp|Q01974|ROR2_HUMAN	100.000	384	432	0.0	813	sp|Q01974|ROR2_HUMAN Tyrosine-protein kinase transmembrane receptor ROR2 OS=Homo sapiens OX=9606 GN=ROR2 PE=1 SV=2
+NP_001305133.1	sp|Q9Z138|ROR2_MOUSE	90.104	384	432	0.0	723	sp|Q9Z138|ROR2_MOUSE Tyrosine-protein kinase transmembrane receptor ROR2 OS=Mus musculus OX=10090 GN=Ror2 PE=1 SV=2
+NP_001305133.1	sp|Q9Z139|ROR1_MOUSE	69.419	327	432	6.26e-169	501	sp|Q9Z139|ROR1_MOUSE Inactive tyrosine-protein kinase transmembrane receptor ROR1 OS=Mus musculus OX=10090 GN=Ror1 PE=2 SV=2
+NP_001305133.1	sp|Q01973|ROR1_HUMAN	68.196	327	432	3.45e-167	496	sp|Q01973|ROR1_HUMAN Inactive tyrosine-protein kinase transmembrane receptor ROR1 OS=Homo sapiens OX=9606 GN=ROR1 PE=1 SV=2
+NP_001305133.1	sp|G5EGK5|CAM1_CAEEL	27.229	415	432	1.06e-40	158	sp|G5EGK5|CAM1_CAEEL Tyrosine-protein kinase receptor cam-1 OS=Caenorhabditis elegans OX=6239 GN=cam-1 PE=1 SV=1
+NP_001305133.1	sp|Q8AXY6|MUSK_CHICK	29.526	359	432	6.77e-35	141	sp|Q8AXY6|MUSK_CHICK Muscle, skeletal receptor tyrosine protein kinase OS=Gallus gallus OX=9031 GN=MUSK PE=2 SV=1
+NP_001305133.1	sp|Q8AXY6|MUSK_CHICK	35.484	93	432	1.13e-07	58.2	sp|Q8AXY6|MUSK_CHICK Muscle, skeletal receptor tyrosine protein kinase OS=Gallus gallus OX=9031 GN=MUSK PE=2 SV=1
+NP_001305133.1	sp|Q9V6K3|ROR2_DROME	29.915	234	432	1.02e-22	104	sp|Q9V6K3|ROR2_DROME Tyrosine-protein kinase transmembrane receptor Ror2 OS=Drosophila melanogaster OX=7227 GN=Nrk PE=1 SV=2
+NP_001305133.1	sp|Q01177|PLMN_RAT	33.103	145	432	1.22e-17	89.0	sp|Q01177|PLMN_RAT Plasminogen OS=Rattus norvegicus OX=10116 GN=Plg PE=2 SV=2
+NP_001305133.1	sp|Q01177|PLMN_RAT	41.975	81	432	8.11e-12	70.9	sp|Q01177|PLMN_RAT Plasminogen OS=Rattus norvegicus OX=10116 GN=Plg PE=2 SV=2
+NP_001305133.1	sp|Q01177|PLMN_RAT	46.269	67	432	5.64e-11	68.2	sp|Q01177|PLMN_RAT Plasminogen OS=Rattus norvegicus OX=10116 GN=Plg PE=2 SV=2
+NP_001305133.1	sp|Q01177|PLMN_RAT	36.275	102	432	1.59e-10	67.0	sp|Q01177|PLMN_RAT Plasminogen OS=Rattus norvegicus OX=10116 GN=Plg PE=2 SV=2
+NP_001305133.1	sp|Q01177|PLMN_RAT	40.741	81	432	9.54e-09	61.2	sp|Q01177|PLMN_RAT Plasminogen OS=Rattus norvegicus OX=10116 GN=Plg PE=2 SV=2
+NP_001305133.1	sp|P20918|PLMN_MOUSE	33.793	145	432	5.23e-17	87.0	sp|P20918|PLMN_MOUSE Plasminogen OS=Mus musculus OX=10090 GN=Plg PE=1 SV=3
+NP_001305133.1	sp|P20918|PLMN_MOUSE	41.975	81	432	1.03e-11	70.9	sp|P20918|PLMN_MOUSE Plasminogen OS=Mus musculus OX=10090 GN=Plg PE=1 SV=3
+NP_001305133.1	sp|P20918|PLMN_MOUSE	37.255	102	432	6.84e-11	68.2	sp|P20918|PLMN_MOUSE Plasminogen OS=Mus musculus OX=10090 GN=Plg PE=1 SV=3
+NP_001305133.1	sp|P20918|PLMN_MOUSE	46.269	67	432	1.08e-10	67.4	sp|P20918|PLMN_MOUSE Plasminogen OS=Mus musculus OX=10090 GN=Plg PE=1 SV=3
+NP_001305133.1	sp|P20918|PLMN_MOUSE	39.506	81	432	4.00e-08	59.3	sp|P20918|PLMN_MOUSE Plasminogen OS=Mus musculus OX=10090 GN=Plg PE=1 SV=3
+NP_001305133.1	sp|P80009|PLMN_CANLF	34.247	146	432	2.51e-16	85.1	sp|P80009|PLMN_CANLF Plasminogen OS=Canis lupus familiaris OX=9615 GN=PLG PE=1 SV=2
+NP_001305133.1	sp|P80009|PLMN_CANLF	44.444	81	432	2.36e-12	72.8	sp|P80009|PLMN_CANLF Plasminogen OS=Canis lupus familiaris OX=9615 GN=PLG PE=1 SV=2
+NP_001305133.1	sp|P80009|PLMN_CANLF	43.210	81	432	9.15e-11	67.8	sp|P80009|PLMN_CANLF Plasminogen OS=Canis lupus familiaris OX=9615 GN=PLG PE=1 SV=2
+NP_001305133.1	sp|P80009|PLMN_CANLF	40.506	79	432	1.82e-10	66.6	sp|P80009|PLMN_CANLF Plasminogen OS=Canis lupus familiaris OX=9615 GN=PLG PE=1 SV=2
+NP_001305133.1	sp|P80009|PLMN_CANLF	33.962	106	432	5.17e-09	62.0	sp|P80009|PLMN_CANLF Plasminogen OS=Canis lupus familiaris OX=9615 GN=PLG PE=1 SV=2
+NP_001135858.1	sp|Q15120|PDK3_HUMAN	100.000	406	415	0.0	842	sp|Q15120|PDK3_HUMAN [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial OS=Homo sapiens OX=9606 GN=PDK3 PE=1 SV=1
+NP_001135858.1	sp|Q922H2|PDK3_MOUSE	97.108	415	415	0.0	838	sp|Q922H2|PDK3_MOUSE [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial OS=Mus musculus OX=10090 GN=Pdk3 PE=1 SV=1
+NP_001135858.1	sp|Q63065|PDK1_RAT	68.957	393	415	0.0	593	sp|Q63065|PDK1_RAT [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial OS=Rattus norvegicus OX=10116 GN=Pdk1 PE=1 SV=1
+NP_001135858.1	sp|Q8BFP9|PDK1_MOUSE	68.702	393	415	0.0	588	sp|Q8BFP9|PDK1_MOUSE [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial OS=Mus musculus OX=10090 GN=Pdk1 PE=1 SV=2
+NP_001135858.1	sp|Q15118|PDK1_HUMAN	68.608	395	415	0.0	587	sp|Q15118|PDK1_HUMAN [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial OS=Homo sapiens OX=9606 GN=PDK1 PE=1 SV=1
+NP_001135858.1	sp|Q64536|PDK2_RAT	67.157	408	415	0.0	582	sp|Q64536|PDK2_RAT [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial OS=Rattus norvegicus OX=10116 GN=Pdk2 PE=1 SV=1
+NP_001135858.1	sp|Q9JK42|PDK2_MOUSE	66.912	408	415	0.0	580	sp|Q9JK42|PDK2_MOUSE [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial OS=Mus musculus OX=10090 GN=Pdk2 PE=1 SV=2
+NP_001135858.1	sp|Q15119|PDK2_HUMAN	66.667	408	415	0.0	576	sp|Q15119|PDK2_HUMAN [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial OS=Homo sapiens OX=9606 GN=PDK2 PE=1 SV=2
+NP_001135858.1	sp|O54937|PDK4_RAT	65.051	392	415	0.0	547	sp|O54937|PDK4_RAT [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 4, mitochondrial OS=Rattus norvegicus OX=10116 GN=Pdk4 PE=1 SV=1
+NP_001135858.1	sp|O88345|PDK4_ICTTR	64.557	395	415	0.0	546	sp|O88345|PDK4_ICTTR [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 4, mitochondrial OS=Ictidomys tridecemlineatus OX=43179 GN=PDK4 PE=2 SV=1
+NP_005189.2	sp|Q9Y259|CHKB_HUMAN	100.000	395	395	0.0	819	sp|Q9Y259|CHKB_HUMAN Choline/ethanolamine kinase OS=Homo sapiens OX=9606 GN=CHKB PE=1 SV=3
+NP_005189.2	sp|O55229|CHKB_MOUSE	86.041	394	395	0.0	677	sp|O55229|CHKB_MOUSE Choline/ethanolamine kinase OS=Mus musculus OX=10090 GN=Chkb PE=1 SV=3
+NP_005189.2	sp|O54783|CHKB_RAT	85.242	393	395	0.0	651	sp|O54783|CHKB_RAT Choline/ethanolamine kinase OS=Rattus norvegicus OX=10116 GN=Chkb PE=1 SV=3
+NP_005189.2	sp|P35790|CHKA_HUMAN	60.218	367	395	4.16e-156	450	sp|P35790|CHKA_HUMAN Choline kinase alpha OS=Homo sapiens OX=9606 GN=CHKA PE=1 SV=3
+NP_005189.2	sp|O54804|CHKA_MOUSE	59.401	367	395	6.40e-155	447	sp|O54804|CHKA_MOUSE Choline kinase alpha OS=Mus musculus OX=10090 GN=Chka PE=1 SV=3
+NP_005189.2	sp|Q01134|CHKA_RAT	59.673	367	395	1.39e-154	446	sp|Q01134|CHKA_RAT Choline kinase alpha OS=Rattus norvegicus OX=10116 GN=Chka PE=1 SV=2
+NP_005189.2	sp|Q22942|CKA2_CAEEL	41.885	382	395	4.45e-92	286	sp|Q22942|CKA2_CAEEL Choline kinase A2 OS=Caenorhabditis elegans OX=6239 GN=cka-2 PE=1 SV=2
+NP_005189.2	sp|O81024|EKI_ARATH	35.484	341	395	3.48e-55	189	sp|O81024|EKI_ARATH Probable ethanolamine kinase OS=Arabidopsis thaliana OX=3702 GN=EMB1187 PE=2 SV=1
+NP_005189.2	sp|Q8L518|CK2_ARATH	31.967	366	395	4.14e-52	180	sp|Q8L518|CK2_ARATH Probable choline kinase 2 OS=Arabidopsis thaliana OX=3702 GN=At1g74320 PE=2 SV=1
+NP_005189.2	sp|Q9M9H6|CK1_ARATH	34.328	335	395	4.89e-51	177	sp|Q9M9H6|CK1_ARATH Probable choline kinase 1 OS=Arabidopsis thaliana OX=3702 GN=CK1 PE=2 SV=1
+NP_001351076.1	sp|Q8C4X2|KC1G3_MOUSE	99.035	311	310	0.0	645	sp|Q8C4X2|KC1G3_MOUSE Casein kinase I isoform gamma-3 OS=Mus musculus OX=10090 GN=Csnk1g3 PE=1 SV=2
+NP_001351076.1	sp|Q5R4V3|KC1G3_PONAB	90.087	343	310	0.0	631	sp|Q5R4V3|KC1G3_PONAB Casein kinase I isoform gamma-3 OS=Pongo abelii OX=9601 GN=CSNK1G3 PE=2 SV=1
+NP_001351076.1	sp|Q9Y6M4|KC1G3_HUMAN	88.012	342	310	0.0	608	sp|Q9Y6M4|KC1G3_HUMAN Casein kinase I isoform gamma-3 OS=Homo sapiens OX=9606 GN=CSNK1G3 PE=1 SV=2
+NP_001351076.1	sp|Q62763|KC1G3_RAT	87.172	343	310	0.0	599	sp|Q62763|KC1G3_RAT Casein kinase I isoform gamma-3 OS=Rattus norvegicus OX=10116 GN=Csnk1g3 PE=1 SV=1
+NP_001351076.1	sp|P78368|KC1G2_HUMAN	84.295	312	310	0.0	533	sp|P78368|KC1G2_HUMAN Casein kinase I isoform gamma-2 OS=Homo sapiens OX=9606 GN=CSNK1G2 PE=1 SV=1
+NP_001351076.1	sp|Q8BVP5|KC1G2_MOUSE	83.333	312	310	0.0	533	sp|Q8BVP5|KC1G2_MOUSE Casein kinase I isoform gamma-2 OS=Mus musculus OX=10090 GN=Csnk1g2 PE=1 SV=1
+NP_001351076.1	sp|Q62762|KC1G2_RAT	83.333	312	310	0.0	532	sp|Q62762|KC1G2_RAT Casein kinase I isoform gamma-2 OS=Rattus norvegicus OX=10116 GN=Csnk1g2 PE=1 SV=2
+NP_001351076.1	sp|Q5PRD4|KC1G1_DANRE	82.222	315	310	0.0	531	sp|Q5PRD4|KC1G1_DANRE Casein kinase I isoform gamma-1 OS=Danio rerio OX=7955 GN=csnk1g1 PE=2 SV=1
+NP_001351076.1	sp|Q9HCP0|KC1G1_HUMAN	80.952	315	310	0.0	526	sp|Q9HCP0|KC1G1_HUMAN Casein kinase I isoform gamma-1 OS=Homo sapiens OX=9606 GN=CSNK1G1 PE=1 SV=1
+NP_001351076.1	sp|A7E3X2|KC1G1_BOVIN	72.934	351	310	0.0	513	sp|A7E3X2|KC1G1_BOVIN Casein kinase I isoform gamma-1 OS=Bos taurus OX=9913 GN=CSNK1G1 PE=2 SV=1
+NP_001229886.1	sp|P20794|MAK_HUMAN	96.142	648	648	0.0	1276	sp|P20794|MAK_HUMAN Serine/threonine-protein kinase MAK OS=Homo sapiens OX=9606 GN=MAK PE=1 SV=2
+NP_001229886.1	sp|P20793|MAK_RAT	81.636	648	648	0.0	1092	sp|P20793|MAK_RAT Serine/threonine-protein kinase MAK OS=Rattus norvegicus OX=10116 GN=Mak PE=1 SV=2
+NP_001229886.1	sp|Q04859|MAK_MOUSE	81.019	648	648	0.0	1081	sp|Q04859|MAK_MOUSE Serine/threonine-protein kinase MAK OS=Mus musculus OX=10090 GN=Mak PE=1 SV=2
+NP_001229886.1	sp|Q9UPZ9|CILK1_HUMAN	53.284	670	648	0.0	620	sp|Q9UPZ9|CILK1_HUMAN Serine/threonine-protein kinase ICK OS=Homo sapiens OX=9606 GN=CILK1 PE=1 SV=1
+NP_001229886.1	sp|Q62726|CILK1_RAT	52.985	670	648	0.0	603	sp|Q62726|CILK1_RAT Serine/threonine-protein kinase ICK OS=Rattus norvegicus OX=10116 GN=Cilk1 PE=1 SV=1
+NP_001229886.1	sp|Q9JKV2|CILK1_MOUSE	51.420	669	648	0.0	588	sp|Q9JKV2|CILK1_MOUSE Serine/threonine-protein kinase ICK OS=Mus musculus OX=10090 GN=Cilk1 PE=1 SV=2
+NP_001229886.1	sp|B3WFY8|DYF5_CAEEL	68.276	290	648	4.04e-153	454	sp|B3WFY8|DYF5_CAEEL Serine/threonine-protein kinase dyf-5 OS=Caenorhabditis elegans OX=6239 GN=dyf-5 PE=2 SV=2
+NP_001229886.1	sp|Q55FJ6|Y8078_DICDI	58.966	290	648	1.62e-126	386	sp|Q55FJ6|Y8078_DICDI Probable serine/threonine-protein kinase DDB_G0268078 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0268078 PE=3 SV=1
+NP_001229886.1	sp|Q6Z8C8|CDKF4_ORYSJ	56.997	293	648	9.24e-125	380	sp|Q6Z8C8|CDKF4_ORYSJ Cyclin-dependent kinase F-4 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKF-4 PE=2 SV=1
+NP_001229886.1	sp|Q84SN3|CDKF3_ORYSJ	59.930	287	648	4.77e-123	375	sp|Q84SN3|CDKF3_ORYSJ Cyclin-dependent kinase F-3 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKF-3 PE=2 SV=1
+NP_001191948.1	sp|P32189|GLPK_HUMAN	100.000	559	559	0.0	1159	sp|P32189|GLPK_HUMAN Glycerol kinase OS=Homo sapiens OX=9606 GN=GK PE=1 SV=3
+NP_001191948.1	sp|Q63060|GLPK_RAT	97.496	559	559	0.0	1136	sp|Q63060|GLPK_RAT Glycerol kinase OS=Rattus norvegicus OX=10116 GN=Gk PE=2 SV=2
+NP_001191948.1	sp|Q64516|GLPK_MOUSE	97.317	559	559	0.0	1134	sp|Q64516|GLPK_MOUSE Glycerol kinase OS=Mus musculus OX=10090 GN=Gk PE=1 SV=2
+NP_001191948.1	sp|Q14409|GLPK3_HUMAN	97.496	559	559	0.0	1124	sp|Q14409|GLPK3_HUMAN Glycerol kinase 3 OS=Homo sapiens OX=9606 GN=GK3 PE=1 SV=2
+NP_001191948.1	sp|Q0IID9|GLPK_BOVIN	96.422	559	559	0.0	1121	sp|Q0IID9|GLPK_BOVIN Glycerol kinase OS=Bos taurus OX=9913 GN=GK PE=2 SV=1
+NP_001191948.1	sp|Q14410|GLPK2_HUMAN	87.478	559	559	0.0	999	sp|Q14410|GLPK2_HUMAN Glycerol kinase 2 OS=Homo sapiens OX=9606 GN=GK2 PE=1 SV=2
+NP_001191948.1	sp|Q4R4D5|GLPK2_MACFA	86.583	559	559	0.0	992	sp|Q4R4D5|GLPK2_MACFA Glycerol kinase 2 OS=Macaca fascicularis OX=9541 GN=GK2 PE=2 SV=1
+NP_001191948.1	sp|Q9WU65|GLPK2_MOUSE	83.813	556	559	0.0	953	sp|Q9WU65|GLPK2_MOUSE Glycerol kinase 2 OS=Mus musculus OX=10090 GN=Gk2 PE=1 SV=1
+NP_001191948.1	sp|C5C1C4|GLPK_BEUC1	51.657	513	559	0.0	533	sp|C5C1C4|GLPK_BEUC1 Glycerol kinase OS=Beutenbergia cavernae (strain ATCC BAA-8 / DSM 12333 / CCUG 43141 / JCM 11478 / NBRC 16432 / NCIMB 13614 / HKI 0122) OX=471853 GN=glpK PE=3 SV=1
+NP_001191948.1	sp|B8H8T1|GLPK_PSECP	52.642	511	559	0.0	532	sp|B8H8T1|GLPK_PSECP Glycerol kinase OS=Pseudarthrobacter chlorophenolicus (strain ATCC 700700 / DSM 12829 / CIP 107037 / JCM 12360 / KCTC 9906 / NCIMB 13794 / A6) OX=452863 GN=glpK PE=3 SV=1
+NP_001136027.1	sp|Q96D53|COQ8B_HUMAN	92.463	544	503	0.0	1014	sp|Q96D53|COQ8B_HUMAN Atypical kinase COQ8B, mitochondrial OS=Homo sapiens OX=9606 GN=COQ8B PE=1 SV=2
+NP_001136027.1	sp|Q566J8|COQ8B_MOUSE	80.381	525	503	0.0	813	sp|Q566J8|COQ8B_MOUSE Atypical kinase COQ8B, mitochondrial OS=Mus musculus OX=10090 GN=Coq8b PE=1 SV=1
+NP_001136027.1	sp|Q6AY19|COQ8B_RAT	79.231	520	503	0.0	798	sp|Q6AY19|COQ8B_RAT Atypical kinase COQ8B, mitochondrial OS=Rattus norvegicus OX=10116 GN=Coq8b PE=1 SV=1
+NP_001136027.1	sp|A3QJU3|COQ8B_DANRE	58.542	480	503	0.0	576	sp|A3QJU3|COQ8B_DANRE Atypical kinase COQ8B, mitochondrial OS=Danio rerio OX=7955 GN=coq8b PE=3 SV=2
+NP_001136027.1	sp|Q5RGU1|COQ8A_DANRE	53.830	483	503	0.0	535	sp|Q5RGU1|COQ8A_DANRE Atypical kinase COQ8A, mitochondrial OS=Danio rerio OX=7955 GN=coq8a PE=2 SV=2
+NP_001136027.1	sp|Q29RI0|COQ8A_BOVIN	51.758	512	503	0.0	533	sp|Q29RI0|COQ8A_BOVIN Atypical kinase COQ8A, mitochondrial OS=Bos taurus OX=9913 GN=COQ8A PE=2 SV=1
+NP_001136027.1	sp|Q8NI60|COQ8A_HUMAN	51.953	512	503	0.0	531	sp|Q8NI60|COQ8A_HUMAN Atypical kinase COQ8A, mitochondrial OS=Homo sapiens OX=9606 GN=COQ8A PE=1 SV=1
+NP_001136027.1	sp|Q60936|COQ8A_MOUSE	51.562	512	503	0.0	528	sp|Q60936|COQ8A_MOUSE Atypical kinase COQ8A, mitochondrial OS=Mus musculus OX=10090 GN=Coq8a PE=1 SV=2
+NP_001136027.1	sp|Q5BJQ0|COQ8A_RAT	53.975	478	503	0.0	527	sp|Q5BJQ0|COQ8A_RAT Atypical kinase COQ8A, mitochondrial OS=Rattus norvegicus OX=10116 GN=Coq8a PE=2 SV=1
+NP_001136027.1	sp|Q18486|COQ8_CAEEL	43.694	444	503	2.71e-124	383	sp|Q18486|COQ8_CAEEL Atypical kinase coq-8, mitochondrial OS=Caenorhabditis elegans OX=6239 GN=coq-8 PE=3 SV=2
+NP_064632.2	sp|Q8NI60|COQ8A_HUMAN	100.000	647	647	0.0	1339	sp|Q8NI60|COQ8A_HUMAN Atypical kinase COQ8A, mitochondrial OS=Homo sapiens OX=9606 GN=COQ8A PE=1 SV=1
+NP_064632.2	sp|Q5BJQ0|COQ8A_RAT	87.461	646	647	0.0	1172	sp|Q5BJQ0|COQ8A_RAT Atypical kinase COQ8A, mitochondrial OS=Rattus norvegicus OX=10116 GN=Coq8a PE=2 SV=1
+NP_064632.2	sp|Q29RI0|COQ8A_BOVIN	87.481	647	647	0.0	1160	sp|Q29RI0|COQ8A_BOVIN Atypical kinase COQ8A, mitochondrial OS=Bos taurus OX=9913 GN=COQ8A PE=2 SV=1
+NP_064632.2	sp|Q60936|COQ8A_MOUSE	86.997	646	647	0.0	1145	sp|Q60936|COQ8A_MOUSE Atypical kinase COQ8A, mitochondrial OS=Mus musculus OX=10090 GN=Coq8a PE=1 SV=2
+NP_064632.2	sp|Q5RGU1|COQ8A_DANRE	67.610	636	647	0.0	855	sp|Q5RGU1|COQ8A_DANRE Atypical kinase COQ8A, mitochondrial OS=Danio rerio OX=7955 GN=coq8a PE=2 SV=2
+NP_064632.2	sp|A3QJU3|COQ8B_DANRE	59.760	584	647	0.0	665	sp|A3QJU3|COQ8B_DANRE Atypical kinase COQ8B, mitochondrial OS=Danio rerio OX=7955 GN=coq8b PE=3 SV=2
+NP_064632.2	sp|Q96D53|COQ8B_HUMAN	58.221	517	647	0.0	580	sp|Q96D53|COQ8B_HUMAN Atypical kinase COQ8B, mitochondrial OS=Homo sapiens OX=9606 GN=COQ8B PE=1 SV=2
+NP_064632.2	sp|Q566J8|COQ8B_MOUSE	58.880	518	647	0.0	580	sp|Q566J8|COQ8B_MOUSE Atypical kinase COQ8B, mitochondrial OS=Mus musculus OX=10090 GN=Coq8b PE=1 SV=1
+NP_064632.2	sp|Q6AY19|COQ8B_RAT	61.006	477	647	0.0	574	sp|Q6AY19|COQ8B_RAT Atypical kinase COQ8B, mitochondrial OS=Rattus norvegicus OX=10116 GN=Coq8b PE=1 SV=1
+NP_064632.2	sp|Q18486|COQ8_CAEEL	51.893	449	647	3.30e-161	484	sp|Q18486|COQ8_CAEEL Atypical kinase coq-8, mitochondrial OS=Caenorhabditis elegans OX=6239 GN=coq-8 PE=3 SV=2
+NP_001034892.1	sp|Q8IZL9|CDK20_HUMAN	100.000	346	346	0.0	704	sp|Q8IZL9|CDK20_HUMAN Cyclin-dependent kinase 20 OS=Homo sapiens OX=9606 GN=CDK20 PE=1 SV=1
+NP_001034892.1	sp|Q5R7I7|CDK20_PONAB	96.532	346	346	0.0	682	sp|Q5R7I7|CDK20_PONAB Cyclin-dependent kinase 20 OS=Pongo abelii OX=9601 GN=CDK20 PE=2 SV=1
+NP_001034892.1	sp|Q9JHU3|CDK20_MOUSE	94.220	346	346	0.0	666	sp|Q9JHU3|CDK20_MOUSE Cyclin-dependent kinase 20 OS=Mus musculus OX=10090 GN=Cdk20 PE=1 SV=1
+NP_001034892.1	sp|Q4KM34|CDK20_RAT	93.642	346	346	0.0	660	sp|Q4KM34|CDK20_RAT Cyclin-dependent kinase 20 OS=Rattus norvegicus OX=10116 GN=Cdk20 PE=2 SV=2
+NP_001034892.1	sp|A8WIP6|CDK20_DANRE	76.765	340	346	0.0	545	sp|A8WIP6|CDK20_DANRE Cyclin-dependent kinase 20 OS=Danio rerio OX=7955 GN=cdk20 PE=2 SV=1
+NP_001034892.1	sp|Q5EDC3|CDK20_MACMU	99.401	167	346	4.78e-116	338	sp|Q5EDC3|CDK20_MACMU Cyclin-dependent kinase 20 OS=Macaca mulatta OX=9544 GN=CDK20 PE=2 SV=1
+NP_001034892.1	sp|A2Y4B6|CDKD1_ORYSI	46.462	325	346	5.74e-95	291	sp|A2Y4B6|CDKD1_ORYSI Cyclin-dependent kinase D-1 OS=Oryza sativa subsp. indica OX=39946 GN=CDKD-1 PE=2 SV=1
+NP_001034892.1	sp|P29620|CDKD1_ORYSJ	46.462	325	346	1.06e-94	291	sp|P29620|CDKD1_ORYSJ Cyclin-dependent kinase D-1 OS=Oryza sativa subsp. japonica OX=39947 GN=CDKD-1 PE=1 SV=1
+NP_001034892.1	sp|Q9C9U2|CDKD1_ARATH	47.855	303	346	5.83e-93	285	sp|Q9C9U2|CDKD1_ARATH Cyclin-dependent kinase D-1 OS=Arabidopsis thaliana OX=3702 GN=CDKD-1 PE=1 SV=1
+NP_001034892.1	sp|Q9LMT0|CDKD3_ARATH	47.697	304	346	3.12e-91	281	sp|Q9LMT0|CDKD3_ARATH Cyclin-dependent kinase D-3 OS=Arabidopsis thaliana OX=3702 GN=CDKD-3 PE=1 SV=1
+NP_001434901.1	sp|Q9P286|PAK5_HUMAN	99.399	333	379	0.0	688	sp|Q9P286|PAK5_HUMAN Serine/threonine-protein kinase PAK 5 OS=Homo sapiens OX=9606 GN=PAK5 PE=1 SV=1
+NP_001434901.1	sp|D4A280|PAK5_RAT	90.691	333	379	0.0	631	sp|D4A280|PAK5_RAT Serine/threonine-protein kinase PAK 5 OS=Rattus norvegicus OX=10116 GN=Pak5 PE=1 SV=1
+NP_001434901.1	sp|Q8C015|PAK5_MOUSE	89.489	333	379	0.0	622	sp|Q8C015|PAK5_MOUSE Serine/threonine-protein kinase PAK 5 OS=Mus musculus OX=10090 GN=Pak5 PE=1 SV=1
+NP_001434901.1	sp|Q8BTW9|PAK4_MOUSE	61.905	126	379	7.73e-44	163	sp|Q8BTW9|PAK4_MOUSE Serine/threonine-protein kinase PAK 4 OS=Mus musculus OX=10090 GN=Pak4 PE=1 SV=1
+NP_001434901.1	sp|O96013|PAK4_HUMAN	62.931	116	379	6.23e-43	160	sp|O96013|PAK4_HUMAN Serine/threonine-protein kinase PAK 4 OS=Homo sapiens OX=9606 GN=PAK4 PE=1 SV=1
+NP_001434901.1	sp|Q3ULB5|PAK6_MOUSE	61.321	106	379	1.09e-30	127	sp|Q3ULB5|PAK6_MOUSE Serine/threonine-protein kinase PAK 6 OS=Mus musculus OX=10090 GN=Pak6 PE=2 SV=1
+NP_001434901.1	sp|Q5R8Z4|PAK6_PONAB	60.377	106	379	5.41e-30	125	sp|Q5R8Z4|PAK6_PONAB Serine/threonine-protein kinase PAK 6 OS=Pongo abelii OX=9601 GN=PAK6 PE=2 SV=1
+NP_001434901.1	sp|Q9NQU5|PAK6_HUMAN	60.377	106	379	6.54e-30	124	sp|Q9NQU5|PAK6_HUMAN Serine/threonine-protein kinase PAK 6 OS=Homo sapiens OX=9606 GN=PAK6 PE=1 SV=1
+NP_001434901.1	sp|G5EFU0|PK2_CAEEL	47.500	120	379	7.23e-23	103	sp|G5EFU0|PK2_CAEEL Serine/threonine-protein kinase pak-2 OS=Caenorhabditis elegans OX=6239 GN=pak-2 PE=2 SV=1
+NP_001434901.1	sp|Q9VXE5|PAKM_DROME	54.945	91	379	2.15e-20	96.3	sp|Q9VXE5|PAKM_DROME Serine/threonine-protein kinase PAK mbt OS=Drosophila melanogaster OX=7227 GN=mbt PE=1 SV=2
+NP_001305297.1	sp|P49336|CDK8_HUMAN	99.784	464	463	0.0	968	sp|P49336|CDK8_HUMAN Cyclin-dependent kinase 8 OS=Homo sapiens OX=9606 GN=CDK8 PE=1 SV=1
+NP_001305297.1	sp|Q8R3L8|CDK8_MOUSE	98.707	464	463	0.0	958	sp|Q8R3L8|CDK8_MOUSE Cyclin-dependent kinase 8 OS=Mus musculus OX=10090 GN=Cdk8 PE=1 SV=3
+NP_001305297.1	sp|Q6P3N6|CDK8_XENTR	97.198	464	463	0.0	950	sp|Q6P3N6|CDK8_XENTR Cyclin-dependent kinase 8 OS=Xenopus tropicalis OX=8364 GN=cdk8 PE=2 SV=1
+NP_001305297.1	sp|Q8JH47|CDK8_DANRE	95.474	464	463	0.0	919	sp|Q8JH47|CDK8_DANRE Cyclin-dependent kinase 8 OS=Danio rerio OX=7955 GN=cdk8 PE=2 SV=1
+NP_001305297.1	sp|Q66KH9|CDK8_XENLA	86.853	464	463	0.0	823	sp|Q66KH9|CDK8_XENLA Cyclin-dependent kinase 8 OS=Xenopus laevis OX=8355 GN=cdk8 PE=2 SV=1
+NP_001305297.1	sp|Q8BWD8|CDK19_MOUSE	76.693	502	463	0.0	751	sp|Q8BWD8|CDK19_MOUSE Cyclin-dependent kinase 19 OS=Mus musculus OX=10090 GN=Cdk19 PE=2 SV=1
+NP_001305297.1	sp|Q9BWU1|CDK19_HUMAN	76.693	502	463	0.0	746	sp|Q9BWU1|CDK19_HUMAN Cyclin-dependent kinase 19 OS=Homo sapiens OX=9606 GN=CDK19 PE=1 SV=1
+NP_001305297.1	sp|Q17IE8|CDK8_AEDAE	86.828	372	463	0.0	694	sp|Q17IE8|CDK8_AEDAE Cyclin-dependent kinase 8 OS=Aedes aegypti OX=7159 GN=Cdk8 PE=3 SV=2
+NP_001305297.1	sp|Q9VT57|CDK8_DROME	84.409	372	463	0.0	665	sp|Q9VT57|CDK8_DROME Cyclin-dependent kinase 8 OS=Drosophila melanogaster OX=7227 GN=Cdk8 PE=1 SV=2
+NP_001305297.1	sp|P90866|CDK8_CAEEL	60.950	379	463	6.42e-162	473	sp|P90866|CDK8_CAEEL Cyclin-dependent kinase 8 OS=Caenorhabditis elegans OX=6239 GN=cdk-8 PE=3 SV=4
+NP_001245390.1	sp|Q14296|FASTK_HUMAN	95.082	549	522	0.0	1013	sp|Q14296|FASTK_HUMAN Fas-activated serine/threonine kinase OS=Homo sapiens OX=9606 GN=FASTK PE=1 SV=1
+NP_001245390.1	sp|Q9JIX9|FASTK_MOUSE	84.466	515	522	0.0	837	sp|Q9JIX9|FASTK_MOUSE Fas-activated serine/threonine kinase OS=Mus musculus OX=10090 GN=Fastk PE=1 SV=1
+NP_001245390.1	sp|Q14CZ7|FAKD3_HUMAN	28.247	308	522	3.26e-21	100	sp|Q14CZ7|FAKD3_HUMAN FAST kinase domain-containing protein 3, mitochondrial OS=Homo sapiens OX=9606 GN=FASTKD3 PE=1 SV=2
+NP_001245390.1	sp|Q8BSN9|FAKD3_MOUSE	27.132	387	522	6.82e-19	93.6	sp|Q8BSN9|FAKD3_MOUSE FAST kinase domain-containing protein 3, mitochondrial OS=Mus musculus OX=10090 GN=Fastkd3 PE=2 SV=2
+NP_001245390.1	sp|Q58CX2|FAKD3_BOVIN	27.044	318	522	7.85e-19	93.6	sp|Q58CX2|FAKD3_BOVIN FAST kinase domain-containing protein 3, mitochondrial OS=Bos taurus OX=9913 GN=FASTKD3 PE=2 SV=2
+NP_001245390.1	sp|Q68FN9|FAKD3_RAT	27.358	318	522	2.28e-18	92.0	sp|Q68FN9|FAKD3_RAT FAST kinase domain-containing protein 3, mitochondrial OS=Rattus norvegicus OX=10116 GN=Fastkd3 PE=2 SV=2
+NP_001245390.1	sp|Q6DJ55|FAKD4_XENTR	25.597	293	522	1.72e-09	63.9	sp|Q6DJ55|FAKD4_XENTR FAST kinase domain-containing protein 4 OS=Xenopus tropicalis OX=8364 GN=tbrg4 PE=2 SV=2
+NP_001245390.1	sp|Q91YM4|FAKD4_MOUSE	26.804	291	522	3.92e-09	62.8	sp|Q91YM4|FAKD4_MOUSE FAST kinase domain-containing protein 4 OS=Mus musculus OX=10090 GN=Tbrg4 PE=1 SV=1
+NP_001245390.1	sp|Q7YS91|FAKD4_PIG	25.517	290	522	4.43e-08	59.7	sp|Q7YS91|FAKD4_PIG FAST kinase domain-containing protein 4 OS=Sus scrofa OX=9823 GN=TBRG4 PE=2 SV=2
+NP_001245390.1	sp|Q5M9G9|FAKD4_RAT	23.793	290	522	4.37e-07	56.2	sp|Q5M9G9|FAKD4_RAT FAST kinase domain-containing protein 4 OS=Rattus norvegicus OX=10116 GN=Tbrg4 PE=2 SV=1
+NP_076996.2	sp|Q14CZ7|FAKD3_HUMAN	100.000	662	662	0.0	1357	sp|Q14CZ7|FAKD3_HUMAN FAST kinase domain-containing protein 3, mitochondrial OS=Homo sapiens OX=9606 GN=FASTKD3 PE=1 SV=2
+NP_076996.2	sp|Q58CX2|FAKD3_BOVIN	74.848	660	662	0.0	1023	sp|Q58CX2|FAKD3_BOVIN FAST kinase domain-containing protein 3, mitochondrial OS=Bos taurus OX=9913 GN=FASTKD3 PE=2 SV=2
+NP_076996.2	sp|Q68FN9|FAKD3_RAT	68.750	656	662	0.0	924	sp|Q68FN9|FAKD3_RAT FAST kinase domain-containing protein 3, mitochondrial OS=Rattus norvegicus OX=10116 GN=Fastkd3 PE=2 SV=2
+NP_076996.2	sp|Q8BSN9|FAKD3_MOUSE	64.750	661	662	0.0	883	sp|Q8BSN9|FAKD3_MOUSE FAST kinase domain-containing protein 3, mitochondrial OS=Mus musculus OX=10090 GN=Fastkd3 PE=2 SV=2
+NP_076996.2	sp|Q6DI86|FAKD1_MOUSE	28.165	316	662	2.01e-25	115	sp|Q6DI86|FAKD1_MOUSE FAST kinase domain-containing protein 1, mitochondrial OS=Mus musculus OX=10090 GN=Fastkd1 PE=2 SV=1
+NP_076996.2	sp|Q969Z0|FAKD4_HUMAN	23.801	563	662	4.00e-23	107	sp|Q969Z0|FAKD4_HUMAN FAST kinase domain-containing protein 4 OS=Homo sapiens OX=9606 GN=TBRG4 PE=1 SV=1
+NP_076996.2	sp|Q6GQ66|FAKD1_XENLA	27.244	312	662	7.16e-22	104	sp|Q6GQ66|FAKD1_XENLA FAST kinase domain-containing protein 1, mitochondrial OS=Xenopus laevis OX=8355 GN=fastkd1 PE=2 SV=1
+NP_076996.2	sp|Q14296|FASTK_HUMAN	28.247	308	662	1.67e-21	102	sp|Q14296|FASTK_HUMAN Fas-activated serine/threonine kinase OS=Homo sapiens OX=9606 GN=FASTK PE=1 SV=1
+NP_076996.2	sp|Q9JIX9|FASTK_MOUSE	26.948	308	662	1.79e-21	102	sp|Q9JIX9|FASTK_MOUSE Fas-activated serine/threonine kinase OS=Mus musculus OX=10090 GN=Fastk PE=1 SV=1
+NP_076996.2	sp|Q5M9G9|FAKD4_RAT	23.498	566	662	2.98e-21	102	sp|Q5M9G9|FAKD4_RAT FAST kinase domain-containing protein 4 OS=Rattus norvegicus OX=10116 GN=Tbrg4 PE=2 SV=1
+NP_001333423.1	sp|Q5R4F3|TAOK3_PONAB	100.000	438	438	0.0	865	sp|Q5R4F3|TAOK3_PONAB Serine/threonine-protein kinase TAO3 OS=Pongo abelii OX=9601 GN=TAOK3 PE=2 SV=1
+NP_001333423.1	sp|Q9H2K8|TAOK3_HUMAN	100.000	438	438	0.0	865	sp|Q9H2K8|TAOK3_HUMAN Serine/threonine-protein kinase TAO3 OS=Homo sapiens OX=9606 GN=TAOK3 PE=1 SV=2
+NP_001333423.1	sp|Q8BYC6|TAOK3_MOUSE	98.858	438	438	0.0	856	sp|Q8BYC6|TAOK3_MOUSE Serine/threonine-protein kinase TAO3 OS=Mus musculus OX=10090 GN=Taok3 PE=1 SV=2
+NP_001333423.1	sp|Q53UA7|TAOK3_RAT	98.174	438	438	0.0	846	sp|Q53UA7|TAOK3_RAT Serine/threonine-protein kinase TAO3 OS=Rattus norvegicus OX=10116 GN=Taok3 PE=1 SV=1
+NP_001333423.1	sp|Q9I9E0|TAOK3_CHICK	96.575	438	438	0.0	839	sp|Q9I9E0|TAOK3_CHICK Serine/threonine-protein kinase TAO3 OS=Gallus gallus OX=9031 GN=TAOK3 PE=2 SV=2
+NP_001333423.1	sp|Q6DD27|TAOK3_XENLA	92.922	438	438	0.0	784	sp|Q6DD27|TAOK3_XENLA Serine/threonine-protein kinase TAO3 OS=Xenopus laevis OX=8355 GN=taok3 PE=2 SV=1
+NP_001333423.1	sp|Q5F2E8|TAOK1_MOUSE	71.167	437	438	0.0	591	sp|Q5F2E8|TAOK1_MOUSE Serine/threonine-protein kinase TAO1 OS=Mus musculus OX=10090 GN=Taok1 PE=1 SV=1
+NP_001333423.1	sp|O88664|TAOK1_RAT	71.167	437	438	0.0	591	sp|O88664|TAOK1_RAT Serine/threonine-protein kinase TAO1 OS=Rattus norvegicus OX=10116 GN=Taok1 PE=1 SV=1
+NP_001333423.1	sp|Q7L7X3|TAOK1_HUMAN	70.938	437	438	0.0	590	sp|Q7L7X3|TAOK1_HUMAN Serine/threonine-protein kinase TAO1 OS=Homo sapiens OX=9606 GN=TAOK1 PE=1 SV=1
+NP_001333423.1	sp|Q6NU21|TAO1A_XENLA	70.709	437	438	0.0	587	sp|Q6NU21|TAO1A_XENLA Serine/threonine-protein kinase TAO1-A OS=Xenopus laevis OX=8355 GN=taok1-a PE=2 SV=1

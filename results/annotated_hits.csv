@@ -1,0 +1,41 @@
+qseqid,query_description,status,uniprot_id,gene,annotation,organism,pident,query_coverage,evalue,bitscore
+NP_001432677.1,"NP_001432677.1 acylglycerol kinase, mitochondrial isoform 1 precursor [Homo sapiens]",Annotated,Q53H12,AGK,"Acylglycerol kinase, mitochondrial",Homo sapiens,100.0,100.0,0.0,877.0
+NP_001180251.1,NP_001180251.1 inhibitor of nuclear factor kappa-B kinase subunit epsilon isoform 2 [Homo sapiens],Annotated,Q14164,IKBKE,Inhibitor of nuclear factor kappa-B kinase subunit epsilon,Homo sapiens,100.0,98.0,0.0,1336.0
+NP_001432950.1,NP_001432950.1 tyrosine-protein kinase ZAP-70 isoform 6 [Homo sapiens],Annotated,P43403,ZAP70,Tyrosine-protein kinase ZAP-70,Homo sapiens,93.053,100.0,0.0,1183.0
+NP_001425224.1,NP_001425224.1 serine/threonine-protein kinase Chk2 isoform h [Homo sapiens],Annotated,O96017,CHEK2,Serine/threonine-protein kinase Chk2,Homo sapiens,89.547,100.0,0.0,1039.0
+NP_001411089.1,NP_001411089.1 myotonin-protein kinase isoform 8 [Homo sapiens],Annotated,Q09013,DMPK,Myotonin-protein kinase,Homo sapiens,99.813,99.8,0.0,1086.0
+NP_001401443.1,NP_001401443.1 mevalonate kinase isoform e [Homo sapiens],Annotated,Q03426,MVK,Mevalonate kinase,Homo sapiens,84.77,100.0,0.0,575.0
+NP_001132989.1,NP_001132989.1 interferon-inducible double-stranded RNA-dependent protein kinase activator A isoform 2 [Homo sapiens],Annotated,O75569,PRKRA,Interferon-inducible double-stranded RNA-dependent protein kinase activator A,Homo sapiens,99.322,97.7,0.0,608.0
+NP_001129124.1,"NP_001129124.1 interferon-induced, double-stranded RNA-activated protein kinase isoform b [Homo sapiens]",Annotated,P19525,EIF2AK2,"Interferon-induced, double-stranded RNA-activated protein kinase",Homo sapiens,92.559,100.0,0.0,978.0
+NP_001394184.1,NP_001394184.1 serine/threonine-protein kinase STK11 isoform 2 [Homo sapiens],Annotated,Q15831,STK11,Serine/threonine-protein kinase STK11,Homo sapiens,95.037,99.8,0.0,756.0
+NP_001291313.1,NP_001291313.1 serine/threonine-protein kinase Nek10 isoform 4 [Homo sapiens],Annotated,Q6ZWH5,NEK10,Serine/threonine-protein kinase Nek10,Homo sapiens,100.0,98.1,0.0,987.0
+NP_001365404.1,NP_001365404.1 serine/threonine-protein kinase B-raf isoform 13 [Homo sapiens],Annotated,P28028,Braf,Serine/threonine-protein kinase B-raf,Mus musculus,89.821,100.0,0.0,1315.0
+NP_001363233.1,NP_001363233.1 serine/threonine-protein kinase PAK 1 isoform 13 [Homo sapiens],Annotated,Q13153,PAK1,Serine/threonine-protein kinase PAK 1,Homo sapiens,100.0,100.0,0.0,923.0
+NP_001177317.2,NP_001177317.2 bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase isoform 3 [Homo sapiens],Annotated,Q9Y223,GNE,Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase,Homo sapiens,100.0,100.0,0.0,1358.0
+NP_001361351.1,NP_001361351.1 serine/threonine-protein kinase Nek1 isoform 8 [Homo sapiens],Annotated,Q96PY6,NEK1,Serine/threonine-protein kinase Nek1,Homo sapiens,100.0,99.8,0.0,877.0
+NP_001341624.1,NP_001341624.1 RAF proto-oncogene serine/threonine-protein kinase isoform f [Homo sapiens],Annotated,Q5R5M7,RAF1,RAF proto-oncogene serine/threonine-protein kinase,Pongo abelii,93.715,100.0,0.0,1052.0
+NP_001274274.1,NP_001274274.1 tyrosine-protein kinase BTK isoform 2 [Homo sapiens],Annotated,Q06187,BTK,Tyrosine-protein kinase BTK,Homo sapiens,98.58,72.9,0.0,725.0
+NP_001263218.1,NP_001263218.1 cAMP-dependent protein kinase type I-alpha regulatory subunit isoform a [Homo sapiens],Annotated,Q5REL1,PRKAR1A,cAMP-dependent protein kinase type I-alpha regulatory subunit,Pongo abelii,100.0,100.0,0.0,781.0
+NP_001193658.1,NP_001193658.1 RAC-gamma serine/threonine-protein kinase isoform 2 [Homo sapiens],Annotated,Q9WUA6,Akt3,RAC-gamma serine/threonine-protein kinase,Mus musculus,98.698,99.1,0.0,940.0
+NP_001191112.1,NP_001191112.1 serine/threonine-protein kinase Nek2 isoform 2 [Homo sapiens],Annotated,P51955,NEK2,Serine/threonine-protein kinase Nek2,Homo sapiens,100.0,96.4,0.0,763.0
+NP_001165903.1,"NP_001165903.1 phosphorylase b kinase gamma catalytic chain, liver/testis isoform isoform 2 [Homo sapiens]",Annotated,P15735,PHKG2,"Phosphorylase b kinase gamma catalytic chain, liver/testis isoform",Homo sapiens,99.451,97.3,0.0,752.0
+NP_001138778.1,NP_001138778.1 cyclin-dependent kinase 6 [Homo sapiens],Annotated,Q00534,CDK6,Cyclin-dependent kinase 6,Homo sapiens,100.0,100.0,0.0,674.0
+NP_620581.1,NP_620581.1 mitogen-activated protein kinase 14 isoform 2 [Homo sapiens],Annotated,Q16539,MAPK14,Mitogen-activated protein kinase 14,Homo sapiens,100.0,100.0,0.0,751.0
+NP_149109.1,"NP_149109.1 myosin light chain kinase 2, skeletal/cardiac muscle [Homo sapiens]",Annotated,Q9H1R3,MYLK2,"Myosin light chain kinase 2, skeletal/cardiac muscle",Homo sapiens,100.0,100.0,0.0,1229.0
+NP_002746.1,NP_002746.1 dual specificity mitogen-activated protein kinase kinase 1 isoform 1 [Homo sapiens],Annotated,Q02750,MAP2K1,Dual specificity mitogen-activated protein kinase kinase 1,Homo sapiens,100.0,100.0,0.0,810.0
+NP_001091982.1,NP_001091982.1 cGMP-dependent protein kinase 1 isoform 1 [Homo sapiens],Annotated,Q13976,PRKG1,cGMP-dependent protein kinase 1,Homo sapiens,100.0,100.0,0.0,1390.0
+NP_001349403.1,NP_001349403.1 cyclin-dependent kinase inhibitor 1C isoform a [Homo sapiens],Annotated,P49918,CDKN1C,Cyclin-dependent kinase inhibitor 1C,Homo sapiens,100.0,100.0,0.0,595.0
+NP_001305133.1,NP_001305133.1 tyrosine-protein kinase transmembrane receptor ROR2 isoform 2 precursor [Homo sapiens],Annotated,Q01974,ROR2,Tyrosine-protein kinase transmembrane receptor ROR2,Homo sapiens,100.0,88.9,0.0,813.0
+NP_001135858.1,"NP_001135858.1 pyruvate dehydrogenase kinase, isozyme 3 isoform 1 precursor [Homo sapiens]",Annotated,Q15120,PDK3,"[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial",Homo sapiens,100.0,97.8,0.0,842.0
+NP_005189.2,NP_005189.2 choline/ethanolamine kinase [Homo sapiens],Annotated,Q9Y259,CHKB,Choline/ethanolamine kinase,Homo sapiens,100.0,100.0,0.0,819.0
+NP_001351076.1,NP_001351076.1 casein kinase I isoform gamma-3 isoform 14 [Homo sapiens],Annotated,Q8C4X2,Csnk1g3,Casein kinase I isoform gamma-3,Mus musculus,99.035,100.0,0.0,645.0
+NP_001229886.1,NP_001229886.1 serine/threonine-protein kinase MAK isoform 3 [Homo sapiens],Annotated,P20794,MAK,Serine/threonine-protein kinase MAK,Homo sapiens,96.142,100.0,0.0,1276.0
+NP_001191948.1,NP_001191948.1 glycerol kinase isoform d [Homo sapiens],Annotated,P32189,GK,Glycerol kinase,Homo sapiens,100.0,100.0,0.0,1159.0
+NP_001136027.1,"NP_001136027.1 atypical kinase COQ8B, mitochondrial isoform b [Homo sapiens]",Annotated,Q96D53,COQ8B,"Atypical kinase COQ8B, mitochondrial",Homo sapiens,92.463,100.0,0.0,1014.0
+NP_064632.2,"NP_064632.2 atypical kinase COQ8A, mitochondrial [Homo sapiens]",Annotated,Q8NI60,COQ8A,"Atypical kinase COQ8A, mitochondrial",Homo sapiens,100.0,100.0,0.0,1339.0
+NP_001034892.1,NP_001034892.1 cyclin-dependent kinase 20 isoform 3 [Homo sapiens],Annotated,Q8IZL9,CDK20,Cyclin-dependent kinase 20,Homo sapiens,100.0,100.0,0.0,704.0
+NP_001434901.1,NP_001434901.1 serine/threonine-protein kinase PAK 5 isoform 2 [Homo sapiens],Annotated,Q9P286,PAK5,Serine/threonine-protein kinase PAK 5,Homo sapiens,99.399,87.9,0.0,688.0
+NP_001305297.1,NP_001305297.1 cyclin-dependent kinase 8 isoform 2 [Homo sapiens],Annotated,P49336,CDK8,Cyclin-dependent kinase 8,Homo sapiens,99.784,100.0,0.0,968.0
+NP_001245390.1,NP_001245390.1 fas-activated serine/threonine kinase isoform 5 [Homo sapiens],Annotated,Q14296,FASTK,Fas-activated serine/threonine kinase,Homo sapiens,95.082,100.0,0.0,1013.0
+NP_076996.2,"NP_076996.2 FAST kinase domain-containing protein 3, mitochondrial [Homo sapiens]",Annotated,Q14CZ7,FASTKD3,"FAST kinase domain-containing protein 3, mitochondrial",Homo sapiens,100.0,100.0,0.0,1357.0
+NP_001333423.1,NP_001333423.1 serine/threonine-protein kinase TAO3 isoform f [Homo sapiens],Annotated,Q5R4F3,TAOK3,Serine/threonine-protein kinase TAO3,Pongo abelii,100.0,100.0,0.0,865.0

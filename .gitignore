@@ -1,0 +1,4 @@
+venv/
+data/uniprot_sprot.fasta*
+data/sprot_db.*
+__pycache__/
